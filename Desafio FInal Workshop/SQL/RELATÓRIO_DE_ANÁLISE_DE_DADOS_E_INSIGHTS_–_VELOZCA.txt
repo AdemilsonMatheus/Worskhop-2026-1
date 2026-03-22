@@ -1,0 +1,48 @@
+﻿RELATÓRIO DE ANÁLISE DE DADOS E INSIGHTS – VELOZCAR
+1. Introdução
+Este documento apresenta a interpretação dos dados extraídos do sistema de banco de dados da concessionária VelozCar. O objetivo é transformar registros técnicos em inteligência de negócio para otimizar a frota, o fluxo financeiro e o atendimento ao cliente.
+2. Análise das Consultas de Agregação (Agrupamentos)
+2.1. Faturamento por Método de Pagamento
+• O que a consulta mostrou: O montante total arrecadado segmentado por PIX, Cartão e Boleto.
+
+• Insight Prático: Identifica a liquidez do negócio. Se o PIX representa a maior fatia, a concessionária tem dinheiro em caixa mais rápido. Se o Boleto for alto, há um risco maior de inadimplência. Ação: Criar promoções para pagamentos via PIX para reduzir taxas de operadoras de cartão.
+
+2.2. Distribuição da Frota por Marca
+• O que a consulta mostrou: A quantidade de veículos que a empresa possui de cada fabricante (Chevrolet, Toyota, Hyundai, etc.).
+
+• Insight Prático: Revela a dependência de marcas específicas. Ação: Diversificar a frota se uma marca apresentar alta desvalorização ou dificuldade de revenda no mercado local.
+
+2.3. Panorama Operacional de Aluguéis
+• O que a consulta mostrou: O volume de contratos nos estados "Ativo", "Finalizado" ou "Pendente".
+
+• Insight Prático: Mede a taxa de ocupação. Se muitos aluguéis estão "Pendentes", pode haver um gargalo na entrega dos carros ou na aprovação de crédito. Ação: Otimizar o processo de check-out para liberar os veículos mais rapidamente.
+
+2.4. Custos Acumulados de Manutenção
+• O que a consulta mostrou: O total gasto em oficina para cada veículo individualmente.
+
+• Insight Prático: Identifica os "carros vilões". Ação: Veículos que gastam mais de 15% do seu valor anual de aluguel em manutenção devem ser vendidos e substituídos por modelos novos (Renovação de Ativos).
+
+2.5. Estrutura do Quadro de Funcionários
+• O que a consulta mostrou: O total de colaboradores em cada cargo (Vendedores, Mecânicos, Atendentes).
+
+• Insight Prático: Avalia o equilíbrio da equipe. Ação: Se houver muitos vendedores e poucos mecânicos, a frota pode ficar parada por falta de revisão, gerando prejuízo.
+
+3. Análise das Operações de JOIN (Relatórios Cruzados)
+3.1. Relatório de Engajamento (Cliente x Carro x Status)
+• O que a consulta mostrou: Quais clientes estão com quais modelos e o status da reserva.
+
+• Insight Prático: Permite identificar o perfil de consumo. Ação: Se clientes VIP costumam alugar apenas SUVs, o marketing deve enviar ofertas personalizadas dessa categoria para esse grupo específico.
+
+3.2. Auditoria de Desempenho (Funcionário x Pagamento)
+• O que a consulta mostrou: O valor financeiro processado por cada funcionário e o método utilizado.
+
+• Insight Prático: Serve para cálculo de comissões e segurança. Ação: Identificar funcionários com alta performance em vendas para treinarem os demais, ou detectar discrepâncias em valores recebidos.
+
+3.3. Histórico Técnico (Veículo x Oficina)
+• O que a consulta mostrou: O modelo e placa do carro ao lado do custo e status do serviço de manutenção.
+
+• Insight Prático: Cruza a saúde do carro com a disponibilidade. Ação: Priorizar a saída para aluguel dos carros que acabaram de sair da revisão ("Concluído"), garantindo maior segurança ao cliente e menor risco de quebra em trânsito.
+
+4. Conclusão Geral
+
+Os dados indicam que a VelozCar possui uma operação ativa, mas que exige atenção constante na relação custo-benefício da frota. A integração entre o setor financeiro e o setor de manutenção é a chave para garantir que o lucro gerado pelos aluguéis não seja absorvido por manutenções corretivas evitáveis.
