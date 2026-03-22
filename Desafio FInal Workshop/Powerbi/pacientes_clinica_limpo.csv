@@ -1,0 +1,898 @@
+nome_paciente,idade,sexo,tabagismo,descoloracao_dedos,estresse_mental,exposicao_poluicao,doenca_cronica,nivel_energia,fraqueza_imunologica,problema_respiratorio,consumo_alcool,desconforto_garganta,saturacao_oxigenio,aperto_peito,historico_familiar,historico_tabagismo_familiar,estresse_imunologico,doenca_pulmonar,peso_kg,altura_m,imc,risco_cancer_pulmao,imc_calculado
+Ana Silva,54,F,Não,Não,Baixo,Baixa,Sim,Alto,Não,Não,Sim,Não,96.7,Não,Não,Sim,Baixo,Não,38.8,1.79,12.1,Sem Risco,12.10948472269904
+Mariana Lima,38,M,Não,Não,Moderado,Média,Sim,Moderado,Não,Sim,Não,Não,96.95772442588726,Não,Não,Sim,Moderado,Não,77.8,1.6,30.4,Sem Risco,30.390624999999993
+Tiago Barbosa,50,M,Não,Não,Alto,Média,Não,Alto,Não,Não,Sim,Não,92.1,Sim,Não,Não,Baixo,Não,57.8,1.62,22.0,Sem Risco,22.024081694863582
+Carlos Alves,56,M,Não,Não,Baixo,Baixa,Sim,Alto,Não,Não,Sim,Não,99.2,Não,Não,Não,Alto,Não,83.4,1.64,31.0,Sem Risco,31.008328375966695
+Paula Costa,18,Outro,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,99.1,Não,Sim,Não,Baixo,Não,85.5,1.8,26.4,Risco,26.388888888888886
+Mariana Moura,67,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,97.4,Não,Sim,Não,Alto,Não,106.3,1.72,35.9,Sem Risco,35.93158464034614
+Luiza Barbosa,21,M,Sim,Sim,Moderado,Média,Sim,Moderado,Não,Não,Sim,Não,96.9,Não,Não,Não,Moderado,Não,66.0,1.82,19.9,Sem Risco,19.925129815239703
+Carlos Gomes,41,Outro,Sim,Sim,Moderado,Média,Sim,Moderado,Não,Não,Sim,Não,99.3,Não,Não,Sim,Baixo,Não,90.2,1.59,35.7,Sem Risco,35.678968395237526
+Ana Rodrigues,51,F,Não,Não,Moderado,Alta,Não,Moderado,Não,Sim,Sim,Não,99.0,Não,Sim,Sim,Moderado,Sim,80.6,1.59,31.9,Risco,31.88165025117677
+Maria Moura,37,Outro,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Sim,,94.2,Não,Não,Não,Moderado,Não,74.0,1.94,19.7,Sem Risco,19.66202572005527
+Pedro Moreira,33,F,Não,Não,Alto,Baixa,Sim,Alto,Não,Não,Não,Não,98.2,Não,Não,Não,Baixo,Não,88.7,1.71,30.3,Sem Risco,30.33411990014022
+Tiago Costa,62,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.1,Não,Não,Não,Moderado,Não,73.3,1.77,23.4,Sem Risco,23.396852756232242
+Mariana Ferreira,80,F,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,92.3,Não,Sim,Sim,Moderado,Não,98.5,1.77,31.4,Risco,31.440518369561744
+Ana Martins,41,F,Sim,Sim,Alto,Média,Não,Moderado,Não,Não,Não,Não,92.8,Não,Não,Não,Alto,Não,109.8,1.79,34.3,Risco,34.26859336475141
+Luiza Rodrigues,54,F,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Sim,98.9,Não,Não,Não,Alto,Não,75.0,1.71,25.6,Sem Risco,25.64891761567662
+Luiza Moura,59,F,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.6,Não,Não,Não,Moderado,Não,78.2,1.78,24.7,Sem Risco,24.681227117788158
+Gabriel Santos,44,M,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,95.5,Não,Sim,Não,Baixo,Não,92.6,1.69,32.4,Sem Risco,32.42183396939883
+Gabriel Martins,36,F,Sim,Não,Baixo,Média,Não,Baixo,Sim,Não,Não,,97.6,Não,Não,Não,Moderado,Não,47.4,1.84,14.0,Sem Risco,14.000472589792059
+Tiago Gomes,38,Outro,Sim,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,96.9,Não,Sim,Não,Baixo,Não,81.4,1.7,28.2,Sem Risco,28.16608996539793
+Gustavo Moura,68,M,Não,Não,Moderado,Alta,Sim,Moderado,Não,Não,Não,Não,99.4,Não,Não,Não,Baixo,Não,49.3,1.73,16.5,Sem Risco,16.472317818837915
+Tiago Martins,48,M,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,97.1,Não,Não,Sim,Moderado,Não,79.7,1.84,23.5,Sem Risco,23.540879017013232
+André Araújo,33,M,Sim,Não,Moderado,Média,Não,Baixo,Sim,Não,Não,Não,96.3,Não,Não,Não,Moderado,Não,102.4,1.58,41.0,Sem Risco,41.01906745713828
+Ana Lima,24,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Sim,Sim,Sim,Não,96.9,Não,Não,Sim,Baixo,Não,108.8,1.67,39.0,Sem Risco,39.011796765749935
+Carolina Oliveira,36,Outro,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,95.6,Não,Não,Não,Baixo,Não,87.2,1.77,27.8,Sem Risco,27.833636566759232
+Ana Moreira,62,F,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.6,Não,Não,Não,Moderado,Não,68.2,1.66,24.7,Sem Risco,24.74960081289012
+Ana Ferreira,48,Outro,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Sim,Não,94.9,Não,Não,Não,Baixo,Não,69.5,1.61,26.8,Sem Risco,26.812237182207472
+João Ribeiro,26,M,Não,Não,Moderado,Média,Sim,Moderado,Não,Sim,Não,Não,99.0,Não,Não,Não,Moderado,Não,40.9,1.63,15.4,Sem Risco,15.393880085814295
+André Souza,53,F,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,95.5,Não,Não,Não,Moderado,Não,73.9,1.79,23.1,Sem Risco,23.06419899503761
+André Freitas,62,F,Não,Não,Alto,Baixa,Não,Alto,Não,Sim,Não,Não,94.9,Não,Não,Não,Moderado,Não,80.7,1.72,27.3,Sem Risco,27.278258518117905
+Luiza Moreira,49,M,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,95.8,Não,Não,Não,Moderado,Não,53.5,1.73,17.9,Sem Risco,17.875639012329177
+Carolina Gomes,35,M,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,91.2,Não,Não,Sim,Moderado,Não,101.9,1.65,37.4,Sem Risco,37.428833792470165
+Beatriz Ferreira,48,F,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,99.7,Não,Não,Não,Moderado,Não,61.1,1.69,21.4,Sem Risco,21.392808375056898
+Tiago Oliveira,63,Outro,Não,Sim,Moderado,Baixa,Não,Baixo,Não,Sim,Não,Não,96.95772442588726,Não,Sim,Não,Baixo,Não,69.4,1.65,25.5,Risco,25.491276400367315
+Larissa Moreira,49,Outro,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.7,Não,Não,Não,Baixo,Sim,82.9,1.59,32.8,Sem Risco,32.791424389857994
+Carlos Moreira,38,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,93.5,Não,Não,Não,Moderado,Não,110.3,1.76,35.6,Sem Risco,35.608212809917354
+Fernanda Martins,29,F,Sim,Sim,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,97.3,Sim,Não,Não,Alto,Não,103.0,1.79,32.1,Sem Risco,32.14631253706189
+Felipe Nunes,39,F,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.1,Não,Não,Não,Alto,Não,87.1,1.56,35.8,Sem Risco,35.79059829059828
+Mariana Oliveira,43,F,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,97.6,Não,Não,Sim,Alto,Não,76.9,1.76,24.8,Sem Risco,24.82567148760331
+Tiago Alves 43,55,M,Não,Não,Baixo,Baixa,Não,Alto,Não,Sim,Não,Não,99.7,Não,Não,Não,Baixo,Não,84.7,1.68,30.0,Sem Risco,30.00992063492064
+Mariana Oliveira,41,F,Não,Sim,Moderado,Baixa,Sim,Baixo,Não,Não,Não,,99.2,Não,Não,Não,Baixo,Não,82.0,1.78,25.9,Sem Risco,25.88057063502083
+Pedro Nunes,49,Outro,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,99.7,Não,Não,Não,Moderado,Não,73.5,1.63,27.7,Sem Risco,27.663818736121044
+Carlos Moreira,20,Outro,Não,Não,Alto,Média,Sim,Moderado,Não,Não,Não,Não,94.0,Não,Não,Não,Alto,Não,82.3,1.92,22.3,Sem Risco,22.325303819444443
+Mariana Araújo,39,F,Sim,Não,Alto,Alta,Não,Baixo,Não,Não,Não,Não,100.0,Não,Não,Não,Moderado,Não,65.4,1.71,22.4,Risco,22.365856160870017
+Ana Souza,55,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Sim,Não,99.7,Não,Não,Não,Moderado,Não,70.7,1.79,22.1,Sem Risco,22.065478605536658
+Camila Barbosa,56,M,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,,99.8,Não,Sim,Não,Baixo,Não,67.7,1.74,22.4,Sem Risco,22.36094596379971
+Ana Santos,59,F,Não,Não,Baixo,Média,Não,Moderado,Sim,Não,Não,Não,93.3,Não,Não,Não,Baixo,Não,71.3,1.72,24.1,Sem Risco,24.100865332612223
+Ana Alves,64,Outro,Sim,Não,Alto,Alta,Não,Baixo,Não,Sim,Sim,Não,93.2,Não,Não,Não,Moderado,Não,59.6,1.68,21.1,Risco,21.11678004535148
+Mariana Oliveira,52,M,Não,Não,Moderado,Média,Sim,Baixo,Não,Não,Não,Não,98.1,Não,Não,Não,Moderado,Não,66.9,1.7,23.1,Sem Risco,23.148788927335644
+Maria Moreira,44,M,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,96.9,Não,Não,Não,Baixo,Não,78.0,1.78,,Sem Risco,24.61810377477591
+Mariana Pereira,44,Outro,Sim,Sim,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,95.3,Não,Não,Sim,Alto,Sim,105.2,1.73,35.1,Risco,35.149854656019244
+Carlos Martins,49,M,Não,Não,Moderado,Média,Não,Baixo,Sim,Não,Sim,Não,99.4,Não,Não,Não,Baixo,Não,77.6,1.89,21.7,Sem Risco,21.723915903810084
+Gustavo Silva,48,F,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,97.3,Não,Não,Não,Baixo,Não,54.6,1.88,15.4,Sem Risco,15.448166591217747
+Felipe Ferreira,25,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,95.6,Não,Não,Sim,Alto,Não,86.2,1.67,30.9,Sem Risco,30.90824339345262
+Lucas Costa,42,M,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Sim,94.2,Não,Não,Não,Moderado,Não,87.7,1.57,35.6,Sem Risco,35.579536695200616
+Maria Santos,60,M,Não,Não,Moderado,Média,Sim,Baixo,Não,Não,Sim,Não,97.9,Não,Sim,Não,Moderado,Não,86.2,1.62,32.8,Sem Risco,32.845602804450536
+Maria Nunes,61,M,Não,Sim,Alto,Média,Não,Baixo,Não,Não,Não,Não,97.8,Não,Não,Sim,Alto,Não,82.8,1.74,27.3,Sem Risco,27.348394768133172
+Pedro Freitas,64,F,Não,Não,Moderado,Baixa,Não,Baixo,Não,Sim,Não,Não,93.9,Não,Não,Não,Moderado,Não,58.6,1.65,21.5,Sem Risco,21.52433425160698
+Gustavo Souza,18,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,95.3,Não,Não,Não,Alto,Sim,89.4,1.73,29.9,Sem Risco,29.87069397574259
+Tiago Freitas,37,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.3,Não,Não,Sim,Moderado,Não,105.7,1.72,35.7,Sem Risco,35.728772309356415
+Camila Dias,67,F,Não,Sim,Moderado,Alta,Não,Moderado,Não,Não,Sim,Não,96.8,Não,Não,Não,Baixo,Não,67.2,1.78,21.2,Sem Risco,21.20944325211463
+Mariana Ribeiro,52,F,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Sim,95.7,Não,Sim,Não,Baixo,Não,83.0,1.78,26.2,Sem Risco,26.19618735008206
+Felipe Gomes,71,M,Não,Sim,Moderado,Alta,Sim,Moderado,Não,Não,Sim,Não,98.0,Não,Não,Não,Moderado,Não,70.0,1.57,28.4,Risco,28.398718000730252
+Pedro Moreira,49,F,Não,Não,Alto,Média,Não,Moderado,Sim,Não,Sim,Não,96.8,Não,Não,Não,Moderado,Não,115.0,1.67,41.2,Sem Risco,41.23489547850407
+Lucas Rodrigues,42,F,Sim,Sim,Baixo,Alta,Não,Alto,Não,Não,Não,Não,94.5,Não,Não,Não,Moderado,Não,74.8,1.83,22.3,Risco,22.335692316880166
+Beatriz Ferreira,39,F,Não,Sim,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,96.2,Não,Não,Não,Baixo,Não,96.1,1.71,,Sem Risco,32.86481310488698
+Carolina Nunes 74,42,F,Sim,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,97.0,Não,Sim,Não,Moderado,Não,77.6,1.62,29.6,Risco,29.568663313519274
+Ana Lima,28,M,Não,Não,Alto,Alta,Não,Moderado,Não,Não,Não,Não,93.0,Sim,Não,Não,Moderado,Não,82.1,1.77,26.2,Sem Risco,26.205751859299685
+Gabriel Costa,61,F,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,95.1,Não,Não,Não,Moderado,Não,89.2,1.75,29.1,Sem Risco,29.1265306122449
+André Araújo,39,M,Não,Não,Moderado,Alta,Não,Baixo,Não,Não,Não,Não,93.8,Não,Não,Não,Alto,Não,74.3,1.84,21.9,Sem Risco,21.945888468809073
+Pedro Barbosa,50,M,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,93.8,Não,Não,Não,Moderado,Não,105.2,1.76,34.0,Sem Risco,33.961776859504134
+João Gomes,44,F,Sim,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,97.0,Não,Não,Não,Moderado,Sim,66.2,1.76,21.4,Risco,21.371384297520663
+Luiza Moura,58,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Sim,96.1,Não,Não,Não,Baixo,Não,111.2,1.67,39.9,Sem Risco,39.872351106170896
+Paula Silva,70,M,Não,Não,Moderado,Baixa,Sim,Baixo,Não,Não,Não,Não,99.4,Não,Não,Sim,Baixo,Não,76.8,1.69,26.9,Sem Risco,26.889814782395575
+Camila Lima,42,F,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,98.0,Não,Não,Sim,Moderado,Não,76.5,1.68,27.1,Sem Risco,27.1045918367347
+Maria Rodrigues,60,F,Não,Não,Baixo,Baixa,Sim,Baixo,Não,Sim,Não,Não,95.0,Não,Não,Sim,Moderado,Não,88.5,1.71,30.3,Sem Risco,30.26572278649841
+Ana Rodrigues,32,Outro,Não,Não,Alto,Média,Não,Baixo,Não,Não,Não,Não,98.4,Não,Não,Sim,Alto,Não,80.6,1.67,28.9,Sem Risco,28.900283265803722
+Carolina Lima,54,F,Não,Não,Moderado,Média,Sim,Moderado,Não,Não,Sim,Não,99.3,Não,Não,Sim,Baixo,Não,56.3,1.71,19.3,Sem Risco,19.253787490167916
+Luiza Pereira,52,M,Não,Sim,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,96.9,Não,Não,Não,Baixo,Não,91.8,1.64,34.1,Sem Risco,34.131469363474125
+Luiza Gomes,48,Outro,Sim,Não,Moderado,Baixa,Não,Alto,Não,Não,Sim,Não,99.1,Não,Não,Não,Baixo,Não,67.0,1.72,22.6,Sem Risco,22.647376960519203
+Mariana Ribeiro,51,M,Não,Não,Baixo,Alta,Não,Baixo,Sim,Não,Não,Não,96.9,Não,Sim,Não,Baixo,Não,80.5,1.82,24.3,Sem Risco,24.30262045646661
+Gustavo Santos,18,F,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Sim,Não,95.5,Não,Não,Não,Moderado,Não,76.5,1.81,23.4,Sem Risco,23.350935563627484
+Carlos Moura,64,F,Sim,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,94.2,Não,Sim,Não,Moderado,Não,83.3,1.74,27.5,Risco,27.513542079534943
+Gabriel Ribeiro,60,F,Sim,Não,Baixo,Média,Não,Baixo,Não,Sim,Não,Não,95.7,Não,Não,Não,Moderado,Sim,92.3,1.85,27.0,Risco,26.96859021183345
+Beatriz Nunes,48,F,Sim,Não,Moderado,Baixa,Sim,Alto,Não,Não,Não,Não,99.9,Não,Não,Não,Moderado,Não,91.3,1.72,30.9,Sem Risco,30.861276365603032
+João Souza,33,F,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,99.0,Não,Não,Não,Moderado,Sim,71.6,1.64,26.6,Sem Risco,26.621058893515766
+Luiza Dias,26,F,Sim,Não,Baixo,Baixa,Não,Baixo,Sim,Não,Não,Não,98.9,Não,Não,Não,Baixo,Sim,64.7,1.72,21.9,Sem Risco,21.86992969172526
+Maria Souza,42,F,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,95.4,Sim,Não,Sim,Baixo,Sim,102.2,1.78,32.3,Sem Risco,32.25602827925767
+Gabriel Barbosa,45,M,Não,Sim,Baixo,Baixa,Não,Moderado,Não,Não,Não,Sim,94.5,Não,Não,Não,Alto,Não,78.0,1.63,,Sem Risco,29.357521924046825
+Gustavo Dias,85,M,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,95.8,Não,Não,Não,Moderado,Não,82.3,1.72,27.8,Risco,27.819091400757166
+Camila Silva,66,F,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Sim,Sim,92.8,Não,Não,Não,Baixo,Não,94.7,1.59,37.5,Sem Risco,37.458961275266006
+Beatriz Barbosa,74,F,Sim,Não,Baixo,Média,Não,Moderado,Sim,Sim,Não,Não,95.8,Sim,Não,Não,Baixo,Não,88.5,1.67,31.7,Risco,31.7329413030227
+Carolina Gomes,46,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,98.1,Não,Não,Sim,Baixo,Não,78.9,1.74,26.1,Sem Risco,26.060245739199367
+Gabriel Martins,56,M,Não,Não,Moderado,Alta,Não,Alto,Não,Não,Não,Não,96.1,Não,Não,Não,Moderado,Não,95.9,1.67,34.4,Sem Risco,34.38631718598731
+Carlos Barbosa,64,Outro,Não,Sim,Alto,Baixa,Não,Moderado,Não,Sim,Não,Não,96.5,Não,Não,Sim,Baixo,Não,68.6,1.71,,Sem Risco,23.46020997913888
+Luiza Freitas,61,Outro,Sim,Sim,Moderado,Média,Não,Baixo,Não,Não,Não,Não,98.3,Não,Não,Sim,Moderado,Sim,53.4,1.55,22.2,Risco,22.226847034339226
+Paula Silva,48,F,Sim,Sim,Moderado,Média,Não,Baixo,Sim,Não,Não,Não,98.5,Não,Não,Não,Moderado,Não,74.0,1.52,32.0,Sem Risco,32.029085872576175
+Camila Dias,67,F,Sim,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Sim,Não,93.7,Não,Não,Não,Moderado,Não,66.9,1.78,21.1,Risco,21.114758237596263
+Felipe Moura,39,F,Sim,Não,Baixo,Média,Sim,Baixo,Não,Não,Sim,Não,97.0,Não,Não,Não,Moderado,Não,90.8,1.69,31.8,Sem Risco,31.791603935436438
+André Araújo,18,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.7,Não,Sim,Não,Moderado,Sim,84.1,1.69,29.4,Sem Risco,29.445747697909738
+Pedro Ferreira,28,F,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,93.5,Não,Não,Não,Baixo,Não,65.0,1.8,20.1,Sem Risco,20.061728395061728
+Pedro Alves,43,F,Não,Sim,Baixo,Média,Não,Moderado,Sim,Não,Não,Sim,98.5,Não,Não,Não,Moderado,Não,76.8,1.7,26.6,Sem Risco,26.574394463667822
+Carlos Lima,62,F,Não,Não,Alto,Baixa,Sim,Moderado,Não,Sim,Não,Sim,95.2,Não,Não,Não,Baixo,Não,80.5,1.7,27.9,Sem Risco,27.85467128027682
+Gustavo Araújo,76,M,Sim,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Não,97.0,Sim,Não,Não,Moderado,Não,78.7,1.73,26.3,Risco,26.295566173276754
+João Souza,50,F,Sim,Não,Alto,Alta,Não,Moderado,Não,Não,Sim,Não,97.1,Não,Não,Não,Moderado,Não,78.0,1.71,,Risco,26.674874320303687
+Luiza Nunes,30,F,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,98.5,Não,Não,Não,Baixo,Não,57.8,1.56,23.8,Sem Risco,23.7508218277449
+Ana Moura,64,Outro,Sim,Não,Baixo,Média,Não,Baixo,Não,Sim,Não,Não,95.5,Sim,Sim,Sim,Alto,Não,79.6,1.75,26.0,Risco,25.991836734693877
+André Moreira,35,Outro,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,93.7,Não,Não,Não,Baixo,Sim,78.2,1.76,25.2,Sem Risco,25.24535123966942
+Carolina Nunes,62,Outro,Não,Não,Alto,Média,Não,Moderado,Sim,Sim,Não,Sim,98.9,Não,Não,Sim,Alto,Não,78.0,1.6,,Sem Risco,30.468749999999993
+Luiza Araújo,57,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.1,Não,Não,Não,Baixo,Não,69.0,1.72,23.3,Sem Risco,23.323418063818284
+Rafael Nunes,55,F,Sim,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Não,97.3,Não,Não,Não,Moderado,Não,81.5,1.74,26.9,Sem Risco,26.919011758488573
+Rafael Moura,40,F,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,94.2,Não,Não,Não,Baixo,Não,77.1,1.74,25.5,Sem Risco,25.46571541815299
+Mariana Ribeiro,73,M,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,97.1,Não,Não,Não,Baixo,Não,78.0,1.72,,Sem Risco,26.365603028664147
+Lucas Lima,23,M,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Não,98.0,Não,Não,Sim,Baixo,Não,98.8,1.8,30.5,Sem Risco,30.493827160493826
+Carlos Oliveira,43,F,Sim,Não,Alto,Baixa,Não,Baixo,Não,Sim,Não,Não,95.7,Não,Não,Não,Baixo,Não,76.7,1.57,31.1,Sem Risco,31.11688100937158
+Paula Moura,37,F,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,97.4,Não,Não,Não,Moderado,Não,87.8,1.56,36.1,Sem Risco,36.07823800131492
+Camila Martins,44,M,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,97.7,Não,Não,Não,Alto,Não,77.6,1.68,27.5,Sem Risco,27.49433106575964
+Tiago Martins,41,F,Não,Sim,Moderado,Média,Não,Baixo,Não,Sim,Sim,Não,93.0,Não,Sim,Não,Baixo,Não,103.6,1.67,37.1,Risco,37.14726236150454
+Fernanda Martins,53,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,98.1,Não,Não,Não,Baixo,Não,82.6,1.76,26.7,Sem Risco,26.665805785123965
+Larissa Alves,55,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.4,Não,Não,Não,Baixo,Não,76.1,1.73,25.4,Sem Risco,25.426843529686924
+João Martins,44,Outro,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,94.9,Não,Não,Sim,Moderado,Não,79.7,1.71,,Sem Risco,27.256249786259023
+Luiza Moura,44,M,Não,Não,Baixo,Média,Não,Baixo,Sim,Não,Sim,Não,98.1,Não,Não,Não,Moderado,Não,106.1,1.74,35.0,Sem Risco,35.04425947945567
+Gustavo Dias,52,M,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,99.3,Não,Não,Não,Baixo,Não,77.3,1.63,29.1,Sem Risco,29.094056983702814
+Pedro Barbosa,65,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.3,Não,Não,Não,Alto,Não,90.7,1.5,40.3,Sem Risco,40.31111111111111
+Luiza Santos,64,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,96.95772442588726,Não,Não,Não,Baixo,Não,74.9,1.89,21.0,Sem Risco,20.968058005095045
+Carlos Moura,67,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,98.0,Não,Não,Não,Moderado,Não,80.9,1.78,25.5,Sem Risco,25.533392248453477
+Rafael Barbosa,36,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,95.4,Não,Não,Não,Baixo,Não,79.5,1.7,27.5,Sem Risco,27.508650519031146
+Larissa Silva,33,M,Não,Não,Moderado,Média,Não,Moderado,Não,Sim,Não,Não,96.95772442588726,Não,Sim,Não,Baixo,Não,83.2,1.56,34.2,Sem Risco,34.18803418803419
+Beatriz Alves,43,M,Não,Não,Moderado,Média,Não,Moderado,Sim,Sim,Não,Não,98.8,Não,Não,Não,Alto,Não,76.5,1.65,28.1,Sem Risco,28.099173553719012
+João Alves,22,M,Não,Não,Baixo,Média,Não,Moderado,Sim,Não,Não,Não,98.6,Não,Não,Não,Moderado,Não,72.7,1.84,21.5,Sem Risco,21.47329867674858
+Carolina Lima,53,Outro,Sim,Não,Alto,Média,Não,Moderado,Não,Sim,Não,Não,91.7,Não,Não,Não,Baixo,Não,94.7,1.8,29.2,Risco,29.228395061728396
+Ana Dias,31,Outro,Não,Não,Moderado,Média,Sim,Baixo,Não,Não,Não,Não,97.9,Não,Não,Não,Moderado,Não,81.6,1.6,31.9,Sem Risco,31.874999999999993
+Rafael Rodrigues,41,M,Sim,Não,Baixo,Média,Não,Alto,Não,Não,Não,Não,96.6,Não,Não,Não,Moderado,Não,82.3,1.71,28.1,Sem Risco,28.145412263602477
+Luiza Ferreira,52,M,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Sim,Não,97.8,Não,Não,Não,Alto,Não,91.1,1.64,33.9,Sem Risco,33.87120761451517
+Fernanda Dias,37,Outro,Não,Sim,Baixo,Média,Sim,Moderado,Não,Não,Sim,Não,93.8,Não,Não,Não,Baixo,Não,60.5,1.7,20.9,Sem Risco,20.934256055363324
+Gustavo Costa,21,F,Não,Sim,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.0,Não,Não,Não,Alto,Não,77.3,1.57,31.4,Sem Risco,31.360298592234976
+Ana Ferreira,61,M,Não,Não,Moderado,Média,Sim,Baixo,Não,Não,Não,Não,96.1,Não,Não,Não,Moderado,Não,64.6,1.74,21.3,Sem Risco,21.33703263310873
+Tiago Santos,54,Outro,Sim,Não,Alto,Média,Sim,Moderado,Não,Não,Sim,Não,95.9,Não,Não,Sim,Moderado,Não,84.1,1.71,,Sem Risco,28.760986286378717
+João Barbosa,64,M,Sim,Sim,Baixo,Baixa,Não,Moderado,Não,Não,Não,Sim,96.1,Sim,Não,Não,Moderado,Não,77.3,1.66,28.1,Risco,28.051966903759617
+Camila Rodrigues,26,Outro,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,98.9,Não,Não,Sim,Baixo,Não,101.0,1.71,34.5,Sem Risco,34.54054238911118
+Lucas Barbosa,55,F,Sim,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,97.5,Não,Sim,Não,Moderado,Não,68.9,1.68,24.4,Sem Risco,24.411848072562364
+Carolina Moreira,56,Outro,Sim,Não,Baixo,Média,Sim,Alto,Não,Não,Sim,Não,96.5,Não,Não,Não,Moderado,Não,78.0,1.76,,Risco,25.180785123966942
+Camila Dias,24,F,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,93.1,Não,Sim,Não,Moderado,Não,49.3,1.69,17.3,Sem Risco,17.261300374636743
+Pedro Ribeiro,60,F,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,97.3,Sim,Não,Não,Baixo,Não,62.6,1.69,21.9,Sem Risco,21.918000070025563
+Luiza Araújo,47,F,Não,Não,Moderado,Alta,Não,Moderado,Sim,Não,Sim,Não,95.7,Não,Não,Sim,Baixo,Não,95.4,1.67,34.2,Sem Risco,34.20703503173294
+Gabriel Ribeiro,43,F,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,95.0,Não,Não,Não,Baixo,Não,83.3,1.68,29.5,Sem Risco,29.513888888888893
+Paula Silva,68,F,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,95.6,Não,Não,Não,Moderado,Não,48.7,1.71,16.7,Sem Risco,16.654697171779354
+Pedro Alves,46,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Sim,98.0,Não,Não,Não,Baixo,Não,84.7,1.6,33.1,Sem Risco,33.08593749999999
+Paula Alves,43,Outro,Não,Não,Alto,Baixa,Não,Baixo,Sim,Não,Não,Não,96.2,Não,Sim,Não,Alto,Não,85.4,1.67,30.6,Sem Risco,30.621391946645634
+Gustavo Alves,56,F,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,95.6,Não,Não,Não,Moderado,Não,97.9,1.73,32.7,Sem Risco,32.71074877209396
+Larissa Moreira,31,Outro,Não,Sim,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,92.6,Não,Não,Não,Baixo,Não,85.7,1.79,26.7,Sem Risco,26.74698043132237
+Paula Gomes,67,Outro,Sim,Não,Alto,Baixa,Não,Alto,Não,Não,Não,Não,94.1,Não,Não,Não,Moderado,Não,88.7,1.53,37.9,Risco,37.891409287026356
+Tiago Nunes,49,M,Não,Não,Alto,Baixa,Sim,Moderado,Não,Não,Não,Não,97.4,Sim,Não,Não,Moderado,Não,64.8,1.67,23.2,Sem Risco,23.234967191365772
+Carlos Ferreira,44,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,94.8,Não,Não,Não,Baixo,Não,99.3,1.56,40.8,Sem Risco,40.80374753451676
+Fernanda Silva,47,M,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,97.7,Não,Não,Não,Baixo,Não,94.5,1.8,29.2,Sem Risco,29.166666666666664
+Rafael Santos,31,F,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Sim,Não,98.1,Não,Não,Sim,Baixo,Não,95.7,1.91,26.2,Sem Risco,26.232833529782628
+Lucas Araújo,75,M,Sim,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,97.0,Não,Não,Não,Baixo,Não,62.6,1.81,19.1,Risco,19.10808583376576
+Tiago Ferreira,57,Outro,Sim,Não,Moderado,Alta,Não,Baixo,Não,Não,Sim,Não,96.7,Não,Não,Não,Moderado,Não,74.8,1.79,23.3,Risco,23.34508910458475
+Gabriel Pereira,50,F,Não,Não,Moderado,Média,Não,Moderado,Não,Sim,Não,Não,98.3,Não,Não,Sim,Moderado,Não,81.2,1.79,25.3,Sem Risco,25.342529883586657
+Larissa Souza,60,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Não,97.3,Não,Sim,Não,Moderado,Não,67.4,1.78,21.3,Sem Risco,21.27256659512688
+Larissa Oliveira,55,M,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Sim,95.0,Não,Sim,Não,Baixo,Não,107.9,1.63,40.6,Risco,40.61123866159811
+Lucas Lima,29,F,Não,Sim,Moderado,Média,Não,Moderado,Não,Não,Não,Não,95.7,Não,Não,Não,Alto,Não,57.8,1.75,18.9,Sem Risco,18.8734693877551
+Pedro Alves,67,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Sim,98.4,Não,Não,Não,Baixo,Não,78.3,1.59,31.0,Sem Risco,30.971876112495547
+Carolina Freitas,50,F,Não,Sim,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,99.6,Não,Sim,Sim,Baixo,Não,53.4,1.71,18.3,Sem Risco,18.262029342361753
+André Martins,43,Outro,Não,Sim,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,94.5,Não,Sim,Não,Moderado,Não,64.1,1.56,26.3,Risco,26.339579224194605
+Tiago Freitas,52,M,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,97.7,Não,Não,Sim,Alto,Não,69.3,1.59,27.4,Sem Risco,27.411890352438586
+Luiza Alves,22,M,Sim,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Sim,97.3,Não,Não,Não,Moderado,Não,81.4,1.8,25.1,Sem Risco,25.123456790123456
+Luiza Silva,52,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,97.5,Não,Sim,Sim,Moderado,Não,78.0,1.56,,Sem Risco,32.05128205128205
+Fernanda Santos,46,F,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Sim,Não,99.5,Não,Não,Não,Baixo,Não,108.7,1.7,37.6,Sem Risco,37.61245674740485
+Felipe Oliveira,29,F,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,96.0,Não,Não,Não,Baixo,Não,67.7,1.54,28.5,Sem Risco,28.546129195479846
+Tiago Costa,36,F,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,95.4,Sim,Não,Sim,Baixo,Não,81.9,1.72,27.7,Sem Risco,27.683883180097354
+Lucas Ribeiro,54,M,Não,Não,Baixo,Média,Não,Moderado,Sim,Não,Não,Não,94.9,Não,Não,Não,Moderado,Não,90.3,1.66,32.8,Sem Risco,32.76963274785891
+Maria Pereira,55,F,Sim,Sim,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.1,Não,Não,Não,Moderado,Não,86.0,1.78,27.1,Sem Risco,27.143037495265748
+Felipe Souza,60,F,Não,Não,Moderado,Alta,Sim,Alto,Não,Não,Não,Não,96.2,Não,Não,Não,Baixo,Não,78.4,1.68,27.8,Sem Risco,27.777777777777786
+Gustavo Ribeiro,18,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Sim,Não,Não,Não,99.4,Não,Não,Sim,Moderado,Não,60.0,1.49,27.0,Sem Risco,27.025809648214047
+Felipe Oliveira,59,Outro,Não,Sim,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,96.7,Não,Sim,Não,Alto,Não,78.5,1.61,30.3,Sem Risco,30.284325450407003
+Gabriel Freitas,46,M,Não,Não,Moderado,Média,Não,Alto,Não,Sim,Não,Não,95.9,Não,Não,Não,Moderado,Não,81.4,1.7,28.2,Sem Risco,28.16608996539793
+Mariana Dias,57,M,Não,Não,Baixo,Baixa,Não,Baixo,Sim,Não,Não,Não,95.6,Não,Não,Não,Alto,Não,67.2,1.67,24.1,Sem Risco,24.095521531786726
+Rafael Dias,35,M,Não,Não,Moderado,Baixa,Sim,Alto,Não,Não,Não,Sim,95.8,Não,Não,Não,Baixo,Não,78.1,1.67,28.0,Sem Risco,28.003872494531894
+Larissa Nunes,45,F,Sim,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,97.5,Não,Não,Não,Baixo,Não,74.7,1.63,28.1,Sem Risco,28.11547291956792
+Luiza Dias,46,Outro,Sim,Não,Baixo,Alta,Sim,Moderado,Sim,Não,Não,Não,98.0,Não,Não,Sim,Baixo,Não,95.7,1.74,31.6,Sem Risco,31.60919540229885
+Pedro Araújo,34,F,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,96.0,Não,Não,Não,Moderado,Não,73.1,1.77,23.3,Sem Risco,23.333014140253436
+Gabriel Souza,49,F,Sim,Não,Baixo,Baixa,Não,Baixo,Não,Sim,Não,Não,95.6,Não,Não,Sim,Alto,Não,82.8,1.85,24.2,Sem Risco,24.192841490138786
+Camila Araújo,32,Outro,Não,Não,Alto,Média,Não,Alto,Sim,Não,Não,Não,93.3,Não,Não,Não,Baixo,Não,69.4,1.44,33.5,Sem Risco,33.46836419753087
+Paula Santos,40,F,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,99.7,Sim,Não,Não,Moderado,Não,97.9,1.57,39.7,Sem Risco,39.717635603878456
+Rafael Gomes,62,Outro,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,94.9,Não,Não,Sim,Baixo,Sim,89.3,1.59,35.3,Risco,35.32296981923183
+André Silva,69,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Não,Sim,Não,Não,98.6,Não,Não,Não,Alto,Não,86.1,1.74,28.4,Sem Risco,28.438367023384856
+Camila Santos,78,F,Sim,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,98.4,Não,Não,Não,Baixo,Não,72.5,1.64,27.0,Sem Risco,26.95568114217728
+Carolina Araújo,68,M,Não,Não,Alto,Média,Não,Baixo,Não,Não,Não,Não,93.3,Não,Não,Não,Baixo,Não,106.9,1.63,40.2,Sem Risco,40.23486017539238
+Carlos Ribeiro,19,F,Não,Sim,Moderado,Baixa,Não,Baixo,Não,Não,Não,Sim,97.1,Não,Não,Não,Baixo,Não,66.6,1.69,23.3,Sem Risco,23.318511256608662
+Felipe Araújo,70,F,Sim,Não,Baixo,Baixa,Sim,Moderado,Sim,Sim,Não,Não,97.1,Não,Não,Sim,Moderado,Não,50.2,1.77,16.0,Risco,16.0234926106802
+Luiza Ferreira,70,Outro,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,99.0,Não,Não,Não,Baixo,Não,80.9,1.71,,Risco,27.66663246810985
+Pedro Alves,67,M,Sim,Não,Alto,Média,Sim,Moderado,Não,Não,Não,Não,92.9,Não,Não,Sim,Baixo,Não,80.8,1.73,27.0,Risco,26.997226770022383
+Felipe Souza,26,M,Não,Sim,Baixo,Baixa,Sim,Alto,Não,Sim,Sim,Não,96.6,Não,Não,Sim,Baixo,Não,79.2,1.71,27.1,Sem Risco,27.085257002154513
+Larissa Ferreira,45,F,Não,Não,Alto,Média,Não,Alto,Não,Não,Não,Não,97.4,Não,Não,Não,Moderado,Sim,55.5,1.63,20.9,Sem Risco,20.88900598441793
+Camila Araújo,47,F,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,97.6,Não,Não,Não,Baixo,Não,58.9,1.69,20.6,Sem Risco,20.62252722243619
+Felipe Moreira,71,F,Não,Não,Moderado,Média,Sim,Moderado,Não,Sim,Não,Não,99.5,Não,Não,Não,Moderado,Não,83.7,1.73,28.0,Sem Risco,27.966186641718735
+Carolina Nunes,40,M,Não,Não,Baixo,Média,Não,Alto,Não,Não,Não,Sim,97.6,Não,Não,Não,Moderado,Não,63.7,1.65,23.4,Sem Risco,23.397612488521585
+Pedro Ribeiro,39,Outro,Não,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,,95.8,Sim,Sim,Não,Baixo,Não,70.8,1.73,23.7,Sem Risco,23.655985833138427
+Gabriel Nunes,53,M,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,97.7,Não,Não,Não,Alto,Não,53.3,1.75,17.4,Sem Risco,17.40408163265306
+Fernanda Ferreira,36,Outro,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,96.95772442588726,Não,Não,Sim,Moderado,Não,78.7,1.75,25.7,Sem Risco,25.697959183673472
+Lucas Moura,52,F,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,92.5,Não,Não,Não,Baixo,Não,72.1,1.6,28.2,Sem Risco,28.164062499999993
+Felipe Gomes,61,F,Sim,Não,Alto,Baixa,Não,Alto,Não,Não,Não,Não,96.3,Não,Não,Não,Baixo,Sim,54.4,1.59,21.5,Risco,21.51813614967762
+Tiago Martins,29,Outro,Não,Não,Baixo,Média,Não,Moderado,Sim,Não,Sim,Não,91.7,Não,Não,Não,Baixo,Não,55.7,1.68,19.7,Sem Risco,19.734977324263042
+Maria Gomes,64,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,93.2,Não,Não,Não,Baixo,Sim,60.9,1.62,23.2,Risco,23.205304069501594
+Gustavo Lima,67,M,Não,Sim,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.4,Não,Não,Não,Moderado,Não,88.2,1.6,34.5,Sem Risco,34.45312499999999
+Lucas Nunes,24,F,Não,Não,Moderado,Alta,Não,Moderado,Não,Sim,Sim,Não,98.3,Não,Não,Não,Baixo,Não,61.5,1.69,21.5,Sem Risco,21.532859493715208
+Ana Moura,57,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,98.5,Não,Não,Não,Moderado,Não,92.9,1.76,30.0,Sem Risco,29.990960743801654
+Pedro Araújo,52,F,Sim,Não,Moderado,Média,Não,Alto,Sim,Não,Não,Não,96.6,Não,Não,Não,Alto,Não,76.3,1.67,27.4,Sem Risco,27.358456739216177
+Gabriel Freitas,33,M,Não,Não,Baixo,Média,Sim,Alto,Não,Não,Não,Não,90.8,Não,Não,Não,Baixo,Não,73.2,1.71,25.0,Sem Risco,25.033343592900383
+Gabriel Moreira,36,F,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Sim,Não,96.8,Não,Não,Não,Baixo,Não,48.9,1.63,18.4,Sem Risco,18.404907975460123
+Larissa Moreira,41,M,Sim,Sim,Moderado,Média,Sim,Baixo,Não,Não,Não,Não,95.8,Não,Não,Sim,Moderado,Não,101.4,1.75,33.1,Sem Risco,33.11020408163265
+Mariana Ferreira,53,M,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,95.0,Não,Sim,Não,Alto,Não,57.1,1.79,17.8,Sem Risco,17.82091695015761
+Camila Souza,36,M,Sim,Não,Alto,Baixa,Sim,Moderado,Não,Não,Sim,Não,98.4,Não,Não,Não,Moderado,Não,70.4,1.53,30.1,Sem Risco,30.07390319962408
+Felipe Pereira,60,M,Sim,Não,Baixo,Alta,Sim,Moderado,Não,Não,Não,Não,92.1,Não,Não,Não,Baixo,Não,75.3,1.62,28.7,Risco,28.692272519433008
+Maria Gomes,41,F,Não,Não,Moderado,Média,Não,Moderado,Sim,Não,Não,Não,99.7,Não,Não,Sim,Moderado,Não,61.6,1.77,19.7,Sem Risco,19.662293721472118
+Beatriz Rodrigues,69,F,Não,Não,Baixo,Média,Não,Alto,Não,Não,Não,Não,96.95772442588726,Sim,Não,Não,Moderado,Não,91.1,1.61,35.1,Sem Risco,35.14524902588634
+André Barbosa,40,M,Não,Não,Moderado,Baixa,Sim,Alto,Não,Não,Não,Não,98.6,Não,Não,Não,Alto,Não,72.1,1.73,24.1,Sem Risco,24.09034715493334
+Luiza Pereira,44,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,95.8,Não,Sim,Sim,Baixo,Não,77.9,1.77,24.9,Sem Risco,24.86514092374477
+Carolina Alves,41,M,Não,Sim,Baixo,Média,Não,Moderado,Não,Não,Não,Não,94.3,Não,Não,Não,Moderado,Não,67.0,1.64,24.9,Sem Risco,24.910767400356935
+Mariana Moura,44,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,99.6,Não,Não,Não,Moderado,Não,68.0,1.63,25.6,Sem Risco,25.59373706198954
+Rafael Silva,53,Outro,Não,Não,Baixo,Média,Não,Alto,Não,Não,Não,Não,99.1,Não,Não,Não,Moderado,Não,75.6,1.58,30.3,Sem Risco,30.28360839609036
+Fernanda Moreira,79,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,98.4,Não,Não,Não,Moderado,Sim,87.8,1.55,36.5,Sem Risco,36.54526534859521
+Beatriz Dias,59,Outro,Não,Não,Moderado,Alta,Sim,Moderado,Não,Não,Não,Não,96.95772442588726,Não,Não,Não,Baixo,Não,58.9,1.59,23.3,Sem Risco,23.2981290297061
+Rafael Moura,54,F,Não,Sim,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,95.7,Não,Não,Não,Alto,Sim,68.9,1.75,22.5,Sem Risco,22.497959183673473
+Gustavo Araújo,81,Outro,Não,Sim,Alto,Baixa,Sim,Baixo,Não,Não,Não,Não,100.0,Sim,Não,Não,Moderado,Sim,78.5,1.88,22.2,Risco,22.210276143051157
+Tiago Rodrigues,49,F,Não,Não,Alto,Média,Sim,Moderado,Não,Não,Não,Não,96.7,Não,Não,Não,Baixo,Não,65.0,1.71,22.2,Sem Risco,22.229061933586404
+João Martins,44,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.0,Não,Não,Sim,Alto,Não,75.0,1.61,28.9,Sem Risco,28.93406890166274
+Carolina Araújo,67,F,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,97.1,Não,Não,Não,Moderado,Não,89.0,1.64,33.1,Sem Risco,33.09042236763832
+Mariana Freitas,46,F,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.95772442588726,Não,Não,Não,Moderado,Não,87.9,1.62,33.5,Sem Risco,33.493369913123
+Carlos Freitas,28,M,Não,Sim,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,97.8,Não,Não,Sim,Baixo,Não,77.1,1.72,26.1,Sem Risco,26.061384532179556
+Ana Santos,60,Outro,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Sim,Não,94.0,Não,Não,Não,Baixo,Sim,75.0,1.62,28.6,Risco,28.577960676726104
+Maria Dias,36,M,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Sim,96.3,Sim,Não,Sim,Moderado,Não,80.0,1.69,28.0,Sem Risco,28.01022373166206
+Pedro Ferreira,46,Outro,Não,Não,Baixo,Baixa,Sim,Moderado,Sim,Não,Não,Não,92.8,Não,Não,Sim,Baixo,Não,73.3,1.68,26.0,Sem Risco,25.970804988662135
+Luiza Costa,37,F,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.0,Não,Não,Não,Alto,Não,65.7,1.59,26.0,Sem Risco,25.987896048415806
+André Nunes,24,M,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Sim,Não,94.2,Não,Não,Sim,Alto,Não,98.0,1.53,41.9,Sem Risco,41.864240249476694
+Rafael Araújo,53,F,Não,Não,Alto,Alta,Sim,Moderado,Não,Não,Não,Não,99.5,Não,Não,Sim,Moderado,Não,94.4,1.5,42.0,Sem Risco,41.955555555555556
+Lucas Alves,54,Outro,Não,Não,Baixo,Alta,Não,Alto,Não,Não,Sim,Não,96.8,Não,Não,Não,Moderado,Não,62.9,1.51,27.6,Sem Risco,27.5865093636244
+Paula Rodrigues,53,Outro,Não,Não,Baixo,Alta,Não,Moderado,Não,Sim,Não,Não,91.4,Não,Não,Sim,Baixo,Não,64.8,1.48,29.6,Risco,29.5836376917458
+João Ribeiro,25,Outro,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,96.95772442588726,Não,Não,Não,Moderado,Não,78.1,1.68,27.7,Sem Risco,27.67148526077098
+Carolina Alves,57,Outro,Sim,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,97.0,Não,Não,Sim,Baixo,Não,66.4,1.78,21.0,Sem Risco,20.95694988006565
+Fernanda Barbosa,69,M,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Sim,Não,97.2,Não,Não,Não,Baixo,Não,50.7,1.64,18.9,Sem Risco,18.850386674598457
+Maria Ferreira,46,M,Sim,Não,Alto,Baixa,Não,Baixo,Não,Sim,Não,Não,96.1,Não,Não,Não,Alto,Não,78.5,1.77,25.1,Sem Risco,25.056656771681187
+Ana Alves,80,M,Sim,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,,96.2,Não,Não,Sim,Baixo,Sim,88.3,1.64,32.8,Risco,32.830160618679365
+Gustavo Moura,50,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.2,Não,Não,Não,Baixo,Não,71.6,1.8,22.1,Sem Risco,22.098765432098762
+Tiago Lima,59,M,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Sim,Não,94.1,Não,Não,Não,Baixo,Não,76.6,1.7,26.5,Sem Risco,26.505190311418687
+Larissa Freitas,37,F,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Sim,94.2,Não,Não,Sim,Moderado,Não,66.2,1.57,26.9,Sem Risco,26.857073309262038
+Maria Rodrigues,51,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,95.4,Não,Sim,Não,Alto,Não,113.7,1.77,36.3,Sem Risco,36.29225318395097
+Mariana Rodrigues,49,F,Não,Não,Alto,Média,Não,Baixo,Sim,Não,Sim,Não,94.3,Não,Não,Sim,Moderado,Não,97.8,1.72,33.1,Sem Risco,33.05840995132505
+Carlos Souza,41,Outro,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,93.3,Não,Não,Sim,Baixo,Não,68.9,1.77,22.0,Sem Risco,21.992403204698523
+Pedro Costa,53,M,Não,Não,Baixo,Alta,Não,Moderado,Sim,Não,Não,Não,93.0,Não,Não,Não,Moderado,Não,102.3,1.74,33.8,Sem Risco,33.78913991280222
+Maria Gomes,70,M,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,98.1,Não,Não,Não,Moderado,Sim,55.5,1.67,19.9,Sem Risco,19.900319122234574
+Tiago Costa,74,F,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,93.4,Não,Não,Sim,Baixo,Não,94.3,1.72,31.9,Risco,31.875338020551652
+Tiago Costa,54,F,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,92.6,Não,Não,Não,Alto,Não,84.5,1.67,30.3,Sem Risco,30.298684068987775
+Gabriel Lima,44,M,Sim,Não,Moderado,Alta,Sim,Moderado,Não,Não,Não,Não,94.0,Não,Não,Não,Alto,Não,69.9,1.78,22.1,Risco,22.06160838277995
+Rafael Lima,47,F,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,97.3,Não,Não,Não,Baixo,Sim,76.3,1.83,22.8,Sem Risco,22.7836005852668
+Lucas Silva,29,F,Não,Sim,Baixo,Alta,Não,Moderado,Sim,Não,Não,Não,91.6,Não,Não,Sim,Alto,Não,78.9,1.63,29.7,Risco,29.696262561631983
+Tiago Gomes 288,48,F,Sim,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,Não,98.5,Não,Não,Não,Alto,Não,69.4,1.59,27.5,Risco,27.451445749772557
+Maria Lima,45,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,98.6,Não,Sim,Não,Moderado,Não,38.9,1.65,14.3,Sem Risco,14.288337924701562
+Pedro Araújo,42,F,Não,Não,Moderado,Alta,Sim,Baixo,Não,Não,Sim,Não,94.2,Não,Não,Não,Baixo,Sim,62.5,1.68,22.1,Sem Risco,22.144274376417236
+André Dias,20,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Sim,96.9,Não,Não,Não,Baixo,Não,87.3,1.51,38.3,Sem Risco,38.287794394982676
+Carolina Santos,55,F,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Sim,96.7,Não,Não,Não,Moderado,Não,80.5,1.58,32.2,Sem Risco,32.24643486620733
+Felipe Silva,33,Outro,Sim,Sim,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,90.7,Não,Não,Sim,Baixo,Não,67.7,1.71,,Risco,23.152422967750763
+Gustavo Barbosa,38,Outro,Não,Não,Baixo,Média,Não,Baixo,Sim,Não,Não,Não,95.0,Não,Não,Não,Moderado,Não,62.2,1.67,22.3,Sem Risco,22.302699989243074
+Felipe Oliveira,65,F,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.5,Não,Sim,Não,Moderado,Não,89.6,1.7,31.0,Risco,31.00346020761246
+Carolina Lima,53,F,Não,Não,Moderado,Média,Não,Baixo,Não,Sim,Não,Não,96.4,Não,Não,Não,Moderado,Sim,57.8,1.7,20.0,Risco,20.0
+Carolina Dias,64,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Sim,Não,95.2,Não,Não,Não,Moderado,Não,56.3,1.76,18.2,Sem Risco,18.175361570247933
+Gustavo Freitas,70,Outro,Não,Não,Baixo,Média,Não,Moderado,Sim,Não,Não,Não,95.5,Não,Não,Não,Moderado,Não,75.5,1.67,27.1,Sem Risco,27.071605292409195
+André Freitas,34,M,Não,Não,Alto,Média,Não,Baixo,Não,Sim,Não,Não,98.2,Não,Não,Não,Baixo,Não,98.0,1.75,32.0,Sem Risco,32.0
+Camila Gomes,48,Outro,Sim,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,93.3,Não,Não,Não,Baixo,Não,61.7,1.71,21.1,Risco,21.100509558496636
+Camila Souza,48,F,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,94.2,Não,Não,Não,Moderado,Não,72.0,1.63,27.1,Sem Risco,27.09925100681245
+Rafael Rodrigues,46,Outro,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,98.5,Não,Não,Sim,Moderado,Não,79.9,1.67,28.6,Sem Risco,28.64928824984761
+Pedro Oliveira,44,M,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Sim,,98.0,Sim,Não,Sim,Baixo,Não,44.9,1.68,15.9,Sem Risco,15.908446712018142
+Camila Souza,62,F,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Sim,Não,96.5,Não,Não,Não,Moderado,Não,59.3,1.7,20.5,Sem Risco,20.519031141868513
+Lucas Moreira,35,F,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Sim,Não,97.8,Não,Não,Não,Baixo,Não,79.6,1.67,28.5,Sem Risco,28.54171895729499
+Ana Barbosa,74,Outro,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,96.6,Não,Não,Sim,Baixo,Não,88.2,1.7,30.5,Risco,30.519031141868517
+Maria Ferreira,43,F,Não,Não,Alto,Baixa,Sim,Moderado,Não,Não,Não,Não,92.8,Não,Não,Não,Moderado,Não,95.7,1.71,32.7,Sem Risco,32.72801887760337
+Ana Dias,63,M,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,96.95772442588726,Não,Não,Não,Baixo,Sim,105.9,1.61,40.9,Risco,40.854905289147794
+Larissa Alves,52,F,Sim,Sim,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.7,Não,Não,Não,Baixo,Não,121.9,1.61,47.0,Sem Risco,47.02750665483585
+Paula Rodrigues,56,F,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,94.6,Não,Não,Sim,Alto,Não,66.8,1.62,25.5,Sem Risco,25.453436976070716
+Carolina Ribeiro,54,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Sim,99.5,Não,Não,Não,Baixo,Não,39.5,1.69,13.8,Sem Risco,13.830047967508142
+Fernanda Gomes,46,M,Não,Não,Moderado,Alta,Sim,Baixo,Não,Não,Não,Não,97.2,Não,Não,Sim,Moderado,Não,51.7,1.62,19.7,Sem Risco,19.699740893156527
+Lucas Dias,64,M,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,98.0,Não,Não,Não,Baixo,Sim,73.6,1.66,26.7,Risco,26.709246625054433
+Lucas Silva,32,F,Não,Não,Baixo,Média,Não,Baixo,Sim,Não,Não,Não,92.7,Não,Não,Não,Moderado,Não,65.8,1.89,18.4,Sem Risco,18.42053693905546
+Beatriz Ferreira,49,M,Não,Não,Moderado,Média,Sim,Baixo,Não,Não,Não,Não,94.4,Não,Não,Sim,Alto,Não,63.0,1.75,20.6,Sem Risco,20.571428571428573
+Maria Lima,54,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,94.1,Não,Não,Não,Moderado,Não,80.1,1.88,22.7,Sem Risco,22.662969669533727
+Larissa Freitas,59,F,Não,Não,Moderado,Média,Sim,Moderado,Não,Não,Não,Não,99.0,Não,Não,Não,Baixo,Não,92.9,1.71,31.8,Sem Risco,31.77045928661811
+Carlos Nunes,80,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Sim,Não,Não,98.5,Não,Não,Não,Moderado,Não,58.8,1.62,22.4,Sem Risco,22.405121170553265
+Ana Ferreira,69,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Sim,Não,97.8,Não,Não,Não,Alto,Sim,84.0,1.72,28.4,Sem Risco,28.393726338561386
+Carolina Santos 325,45,F,Sim,Não,Baixo,Alta,Não,Baixo,Não,Sim,Não,Não,94.4,Não,Não,Não,Baixo,Não,78.5,1.86,22.7,Risco,22.690484449069253
+Carlos Lima,48,F,Não,Não,Baixo,Alta,Sim,Alto,Não,Não,Não,Sim,96.95772442588726,Não,Não,Não,Moderado,Não,66.4,1.62,25.3,Sem Risco,25.301021185794845
+Gabriel Souza 327,58,Outro,Sim,Sim,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,98.1,Não,Não,Não,Baixo,Não,72.5,1.85,21.2,Risco,21.18334550766983
+Luiza Lima,29,F,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Sim,96.0,Não,Não,Não,Moderado,Não,94.2,1.6,36.8,Sem Risco,36.79687499999999
+André Moreira,27,F,Sim,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Sim,Não,95.8,Não,Sim,Não,Baixo,Não,79.3,1.79,24.7,Sem Risco,24.749539652320465
+Pedro Martins,78,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,92.3,Não,Não,Não,Moderado,Não,85.8,1.67,30.8,Sem Risco,30.764817670049123
+Camila Silva,52,M,Não,Não,Alto,Baixa,Não,Baixo,Sim,Não,Não,Não,96.1,Não,Não,Não,Moderado,Não,87.9,1.66,31.9,Sem Risco,31.898679053563658
+Camila Ferreira,49,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Sim,99.4,Não,Sim,Não,Alto,Não,62.4,1.74,20.6,Sem Risco,20.610384462940942
+Gabriel Pereira,59,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,99.3,Não,Não,Não,Baixo,Não,72.8,1.65,26.7,Sem Risco,26.740128558310378
+Beatriz Oliveira,61,M,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,99.8,Não,Não,Não,Moderado,Não,65.7,1.9,18.2,Sem Risco,18.1994459833795
+Mariana Barbosa,28,M,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,95.8,Não,Não,Não,Baixo,Não,64.1,1.69,22.4,Sem Risco,22.443191764994225
+Gustavo Ferreira,45,F,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,96.6,Não,Não,Não,Baixo,Não,69.0,1.52,29.9,Sem Risco,29.864958448753463
+Gabriel Pereira,60,M,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,98.3,Não,Não,Não,Baixo,Não,75.4,1.8,23.3,Sem Risco,23.271604938271604
+André Nunes,76,F,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,93.4,Não,Não,Não,Moderado,Não,92.6,1.62,35.3,Sem Risco,35.28425544886449
+Beatriz Lima,35,M,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,97.7,Não,Não,Sim,Baixo,Não,50.9,1.73,17.0,Sem Risco,17.006916368739347
+Rafael Costa,54,M,Não,Não,Moderado,Média,Sim,Alto,Não,Não,Não,Não,96.4,Não,Não,Não,Baixo,Não,43.1,1.67,15.5,Sem Risco,15.45412169672631
+Pedro Pereira,55,Outro,Não,Não,Baixo,Média,Não,Baixo,Não,Sim,Sim,Sim,95.8,Não,Sim,Não,Baixo,Não,44.2,1.73,14.8,Risco,14.768284941027098
+Felipe Dias,26,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.5,Não,Sim,Não,Baixo,Não,46.9,1.79,14.6,Sem Risco,14.637495708623327
+Tiago Freitas,56,F,Sim,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,98.0,Não,Não,Não,Baixo,Não,92.4,1.76,29.8,Sem Risco,29.829545454545457
+Lucas Moura,47,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,96.95772442588726,Não,Não,Não,Alto,Não,86.5,1.71,,Sem Risco,29.58175165008037
+Fernanda Ribeiro,66,F,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,93.1,Sim,Não,Não,Alto,Não,78.0,1.73,,Sem Risco,26.061679307694877
+André Oliveira,56,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,98.2,Não,Não,Não,Moderado,Não,54.7,1.84,16.2,Sem Risco,16.156663516068054
+Maria Santos,32,F,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,97.0,Não,Não,Não,Moderado,Não,77.7,1.76,25.1,Sem Risco,25.083935950413224
+Pedro Oliveira,46,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,93.7,Não,Não,Não,Moderado,Sim,83.6,1.66,30.3,Risco,30.338220351284658
+Felipe Dias,36,F,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,97.5,Não,Não,Não,Moderado,Não,78.9,1.55,32.8,Sem Risco,32.840790842872
+Carolina Araújo,32,M,Sim,Não,Moderado,Média,Sim,Moderado,Não,Não,Sim,Não,96.6,Não,Sim,Não,Baixo,Não,83.7,1.58,33.5,Risco,33.528280724242904
+Felipe Souza,42,F,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.9,Não,Não,Não,Baixo,Não,87.8,1.69,30.7,Sem Risco,30.74122054549911
+Pedro Nunes,51,M,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Sim,Não,96.8,Não,Não,Sim,Alto,Não,81.6,1.71,,Sem Risco,27.906022365856163
+Mariana Moura,61,M,Sim,Não,Baixo,Baixa,Não,Baixo,Não,Não,Sim,,98.9,Não,Não,Sim,Baixo,Não,61.3,1.61,23.6,Sem Risco,23.648778982292345
+Beatriz Rodrigues,58,Outro,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,97.4,Não,Não,Não,Baixo,Não,71.8,1.7,24.8,Sem Risco,24.844290657439448
+Camila Gomes,68,M,Não,Não,Baixo,Alta,Não,Alto,Não,Não,Não,Não,97.7,Não,Não,Não,Baixo,Não,81.8,1.64,30.4,Sem Risco,30.413444378346227
+Gabriel Oliveira,67,Outro,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,98.2,Não,Não,Não,Baixo,Não,63.7,1.75,20.8,Sem Risco,20.8
+Fernanda Ribeiro,44,M,Não,Não,Alto,Média,Não,Moderado,Não,Sim,Não,Não,97.9,Não,Não,Não,Baixo,Não,63.7,1.86,18.4,Sem Risco,18.41253324083709
+Gabriel Oliveira,71,M,Sim,Não,Alto,Baixa,Não,Alto,Sim,Não,Não,Não,96.95772442588726,Não,Sim,Sim,Alto,Não,96.0,1.7,33.2,Risco,33.21799307958478
+Beatriz Ferreira,61,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,94.2,Não,Não,Não,Baixo,Não,46.9,1.54,19.8,Sem Risco,19.775678866587956
+Lucas Freitas,28,M,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Sim,95.9,Não,Não,Não,Moderado,Não,89.2,1.65,32.8,Sem Risco,32.764003673094585
+Fernanda Moreira,45,F,Sim,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,96.95772442588726,Não,Sim,Não,Baixo,Não,59.3,1.78,18.7,Risco,18.716071203130916
+André Rodrigues 365,40,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,93.7,Não,Não,Não,Baixo,Sim,103.4,1.84,30.5,Sem Risco,30.541115311909262
+Luiza Costa,31,Outro,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.0,Não,Não,Não,Baixo,Não,92.2,1.7,31.9,Sem Risco,31.903114186851216
+Carlos Alves,31,M,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,96.1,Não,Não,Não,Moderado,Não,70.6,1.4,36.0,Sem Risco,36.02040816326531
+André Moreira,22,M,Não,Não,Baixo,Alta,Sim,Baixo,Não,Não,Não,Não,99.7,Não,Não,Não,Moderado,Não,88.4,1.7,30.6,Sem Risco,30.588235294117652
+Gabriel Freitas,49,Outro,Não,Não,Alto,Baixa,Não,Alto,Não,Não,Sim,Não,95.5,Não,Sim,Não,Moderado,Não,106.7,1.8,32.9,Sem Risco,32.932098765432094
+Lucas Pereira,69,M,Não,Não,Alto,Baixa,Não,Baixo,Não,Sim,Sim,Não,92.1,Não,Não,Não,Moderado,Sim,92.9,1.65,34.1,Risco,34.12304866850322
+Felipe Santos,44,F,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Sim,Não,Não,95.8,Não,Não,Não,Moderado,Não,98.2,1.83,29.3,Sem Risco,29.323061303711665
+Felipe Freitas,43,Outro,Sim,Não,Moderado,Média,Não,Moderado,Não,Sim,Não,Não,98.0,Não,Não,Não,Baixo,Não,77.2,1.72,26.1,Risco,26.095186587344514
+Mariana Moreira,38,Outro,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,97.6,Não,Não,Não,Baixo,Não,78.2,1.69,27.4,Sem Risco,27.379993697699664
+Carlos Rodrigues,62,Outro,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Sim,97.8,Não,Não,Não,Baixo,Não,49.1,1.76,15.9,Sem Risco,15.850981404958679
+Luiza Costa,57,M,Não,Não,Baixo,Baixa,Sim,Baixo,Não,Sim,Sim,Não,92.7,Sim,Não,Não,Alto,Não,80.6,1.53,34.4,Sem Risco,34.43120167456961
+Rafael Santos,21,F,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,94.7,Não,Não,Não,Moderado,Sim,98.1,1.53,41.9,Sem Risco,41.90695886197616
+Paula Souza,46,M,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,96.5,Não,Não,Não,Moderado,Sim,71.0,1.84,21.0,Sem Risco,20.97117202268431
+Fernanda Oliveira,59,F,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,99.3,Não,Não,Sim,Moderado,Não,94.3,1.7,32.6,Sem Risco,32.62975778546713
+Felipe Nunes,67,Outro,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,97.9,Não,Não,Não,Moderado,Não,109.3,1.66,39.7,Sem Risco,39.66468282769633
+Pedro Alves,70,F,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.9,Não,Não,Sim,Alto,Não,69.1,1.84,20.4,Sem Risco,20.409971644612472
+Mariana Martins,45,F,Sim,Não,Moderado,Média,Sim,Moderado,Não,Sim,Não,Não,96.1,Não,Não,Sim,Alto,Não,88.8,1.86,25.7,Risco,25.66770724939299
+Mariana Silva,75,M,Não,Não,Alto,Alta,Sim,Moderado,Sim,Não,Não,Não,97.0,Não,Não,Sim,Moderado,Não,85.2,1.67,30.5,Sem Risco,30.549679084943886
+Larissa Lima,36,Outro,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,94.4,Não,Sim,Não,Baixo,Não,62.9,1.6,24.6,Sem Risco,24.570312499999996
+Felipe Freitas 388,30,M,Não,Sim,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Não,94.6,Não,Não,Não,Moderado,Não,113.5,1.83,33.9,Sem Risco,33.891725641255334
+João Ribeiro,47,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,92.7,Não,Não,Não,Baixo,Não,99.8,1.59,39.5,Sem Risco,39.47628653929828
+Paula Freitas,30,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.3,Não,Não,Não,Baixo,Não,85.1,1.88,24.1,Sem Risco,24.077636939791763
+Fernanda Alves,56,M,Não,Não,Baixo,Baixa,Não,Baixo,Sim,Não,Não,Não,98.0,Não,Não,Não,Moderado,Não,68.7,1.62,26.2,Sem Risco,26.17741197988111
+Mariana Barbosa,67,Outro,Sim,Sim,Alto,Baixa,Não,Moderado,Não,Não,Não,Sim,98.0,Não,Não,Não,Moderado,Não,74.6,1.74,24.6,Risco,24.639978861144137
+Pedro Souza,58,Outro,Não,Sim,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,94.7,Não,Não,Não,Moderado,Não,59.6,1.7,20.6,Sem Risco,20.622837370242216
+Carolina Moreira 394,50,F,Sim,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,95.3,Não,Não,Não,Moderado,Não,62.0,1.79,19.4,Risco,19.350207546580943
+Lucas Ferreira,39,F,Não,Sim,Alto,Média,Não,Moderado,Não,Não,Sim,Não,96.95772442588726,Não,Não,Não,Alto,Não,97.3,1.6,38.0,Sem Risco,38.00781249999999
+Mariana Dias,48,M,Não,Não,Moderado,Alta,Não,Alto,Não,Não,Não,Não,96.95772442588726,Não,Sim,Não,Moderado,Não,81.8,1.77,26.1,Sem Risco,26.109993935331477
+André Rodrigues,39,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.0,Não,Não,Não,Moderado,Sim,55.0,1.77,17.6,Sem Risco,17.555619394171533
+Beatriz Ribeiro,49,F,Sim,Não,Baixo,Baixa,Não,Baixo,Não,Sim,Não,Não,95.9,Não,Não,Não,Moderado,Não,106.9,1.7,37.0,Sem Risco,36.98961937716263
+Pedro Rodrigues,18,M,Não,Não,Alto,Baixa,Não,Moderado,Sim,Sim,Sim,Não,98.6,Não,Não,Não,Baixo,Não,83.4,1.55,34.7,Sem Risco,34.71383975026014
+Tiago Gomes,42,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,93.9,Não,Não,Sim,Moderado,Não,79.9,1.67,28.6,Sem Risco,28.64928824984761
+Paula Gomes,60,M,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Sim,Não,99.6,Não,Não,Não,Baixo,Não,92.9,1.72,31.4,Risco,31.402109248242297
+Felipe Araújo,52,M,Sim,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,95.2,Não,Não,Não,Moderado,Não,68.3,1.62,26.0,Sem Risco,26.024996189605236
+Pedro Moura,57,F,Sim,Não,Moderado,Média,Não,Moderado,Sim,Não,Não,Sim,97.2,Não,Não,Não,Moderado,Não,61.5,1.67,22.1,Sem Risco,22.05170497328696
+Maria Costa,19,F,Não,Sim,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.2,Não,Não,Não,Moderado,Não,55.2,1.73,18.4,Sem Risco,18.443649971599452
+Fernanda Nunes,57,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,94.7,Não,Não,Não,Baixo,Não,86.0,1.63,32.4,Sem Risco,32.36854981369265
+Rafael Santos,41,F,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Sim,98.4,Não,Não,Sim,Baixo,Não,61.0,1.78,19.3,Sem Risco,19.252619618735007
+Fernanda Rodrigues,45,M,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,98.4,Não,Não,Não,Alto,Não,97.5,1.76,31.5,Sem Risco,31.475981404958677
+Gabriel Ribeiro,43,F,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,93.9,Não,Não,Sim,Baixo,Não,72.8,1.7,25.2,Sem Risco,25.190311418685123
+Gabriel Pereira,66,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.8,Não,Não,Sim,Baixo,Não,90.3,1.62,34.4,Sem Risco,34.40786465477823
+Beatriz Nunes,39,M,Não,Não,Baixo,Média,Não,Moderado,Não,Sim,Não,,97.9,Não,Sim,Não,Baixo,Não,79.1,1.81,24.1,Sem Risco,24.144562131803056
+Camila Oliveira,29,M,Não,Não,Baixo,Média,Não,Baixo,Não,Sim,Sim,Não,96.2,Não,Não,Não,Moderado,Não,88.8,1.73,29.7,Sem Risco,29.67021951952955
+Paula Ferreira,61,M,Sim,Não,Moderado,Média,Sim,Baixo,Não,Sim,Não,Não,99.3,Não,Não,Sim,Baixo,Sim,87.6,1.68,31.0,Risco,31.037414965986397
+Gabriel Ferreira,44,Outro,Sim,Não,Baixo,Alta,Não,Moderado,Não,Sim,Não,Não,96.1,Não,Não,Não,Baixo,Não,77.0,1.61,29.7,Risco,29.705644072373747
+Luiza Moura,30,M,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,99.4,Não,Não,Não,Moderado,Não,100.9,1.87,28.9,Sem Risco,28.854127941891388
+Beatriz Freitas,39,F,Não,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,Não,97.8,Não,Não,Não,Moderado,Não,49.6,1.76,16.0,Sem Risco,16.01239669421488
+Maria Oliveira,43,Outro,Não,Não,Alto,Alta,Não,Moderado,Não,Não,Não,Não,92.0,Não,Não,Não,Baixo,Não,89.6,1.77,28.6,Sem Risco,28.599699958504896
+Beatriz Nunes,43,M,Sim,Não,Baixo,Baixa,Sim,Baixo,Não,Sim,Não,Não,97.0,Não,Não,Não,Moderado,Sim,82.5,1.77,26.3,Risco,26.3334290912573
+João Lima,42,Outro,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,95.7,Não,Não,Não,Moderado,Não,48.4,1.73,16.2,Sem Risco,16.17160613451836
+Maria Lima,53,F,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,94.6,Não,Não,Sim,Alto,Não,107.6,1.76,34.7,Sem Risco,34.736570247933884
+Beatriz Martins,68,M,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,95.8,Não,Não,Não,Alto,Não,63.2,1.77,20.2,Sem Risco,20.173002649302564
+André Rodrigues,77,F,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,99.4,Não,Não,Sim,Baixo,Não,106.9,1.6,41.8,Sem Risco,41.75781249999999
+Mariana Souza,68,M,Não,Não,Alto,Baixa,Sim,Moderado,Não,Sim,Não,Não,93.7,Não,Não,Não,Baixo,Não,58.6,1.71,20.0,Sem Risco,20.040354297048665
+Larissa Nunes,40,M,Sim,Não,Alto,Baixa,Sim,Moderado,Não,Não,Não,Não,98.2,Não,Sim,Não,Moderado,Não,105.2,1.74,34.7,Sem Risco,34.74699431893249
+Rafael Ribeiro,60,F,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,,96.0,Não,Não,Não,Baixo,Não,62.2,1.78,19.6,Sem Risco,19.631359676808483
+Carlos Souza,57,M,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Sim,Não,96.5,Não,Não,Não,Alto,Não,91.2,1.61,35.2,Sem Risco,35.183827784421894
+Pedro Gomes,22,M,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,94.5,Não,Não,Não,Baixo,Não,66.7,1.69,23.4,Sem Risco,23.353524036273242
+Paula Moreira,41,F,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Sim,Não,99.8,Não,Não,Não,Moderado,Não,73.3,1.68,26.0,Sem Risco,25.970804988662135
+Luiza Pereira,77,F,Não,Sim,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.5,Não,Não,Sim,Baixo,Não,61.8,1.73,20.6,Sem Risco,20.648868989942862
+Ana Costa,40,F,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,97.6,Não,Não,Sim,Baixo,Não,91.4,1.69,32.0,Sem Risco,32.00168061342391
+Larissa Silva,66,F,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,96.95772442588726,Não,Não,Não,Moderado,Não,67.4,1.58,27.0,Sem Risco,26.998878384874217
+Felipe Moreira,42,M,Não,Não,Moderado,Média,Não,Alto,Não,Sim,Não,,94.4,Não,Sim,Não,Baixo,Não,93.5,1.77,29.8,Risco,29.844552970091605
+Pedro Ferreira,50,Outro,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,98.5,Sim,Sim,Sim,Moderado,Não,73.2,1.82,22.1,Sem Risco,22.098780340538582
+André Barbosa,50,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.4,Não,Não,Não,Moderado,Não,79.9,1.65,29.3,Sem Risco,29.348025711662082
+Lucas Gomes,34,Outro,Não,Não,Moderado,Alta,Não,Alto,Não,Não,Sim,Não,96.9,Não,Não,Não,Moderado,Não,75.6,1.68,26.8,Sem Risco,26.78571428571429
+Felipe Nunes,50,M,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Sim,Não,98.8,Não,Não,Não,Moderado,Não,70.1,1.68,24.8,Sem Risco,24.83701814058957
+Ana Nunes,51,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,90.9,Não,Não,Não,Moderado,Não,65.6,1.76,21.2,Sem Risco,21.17768595041322
+Luiza Gomes,59,F,Sim,Não,Alto,Baixa,Não,Baixo,Sim,Não,Não,Não,99.1,Não,Não,Não,Moderado,Não,87.4,1.68,31.0,Sem Risco,30.966553287981867
+Beatriz Nunes,39,M,Não,Não,Moderado,Baixa,Sim,Baixo,Não,Sim,Não,Não,96.9,Não,Não,Sim,Moderado,Não,60.0,1.74,19.8,Sem Risco,19.817677368212443
+Luiza Freitas,53,F,Sim,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,94.5,Não,Não,Não,Moderado,Não,69.1,1.71,,Risco,23.63120276324339
+Tiago Santos,58,M,Sim,Não,Moderado,Alta,Não,Moderado,Sim,Não,Sim,Não,98.6,Não,Não,Não,Moderado,Não,70.6,1.61,27.2,Risco,27.236603526098524
+Pedro Santos,62,F,Sim,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,95.9,Não,Não,Não,Moderado,Não,63.7,1.76,20.6,Sem Risco,20.564307851239672
+Carlos Dias,53,M,Não,Sim,Alto,Alta,Não,Baixo,Não,Não,Não,Não,95.2,Não,Não,Não,Moderado,Não,76.6,1.8,23.6,Sem Risco,23.64197530864197
+Larissa Moreira,60,F,Não,Sim,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.5,Não,Não,Não,Baixo,Não,65.0,1.7,22.5,Sem Risco,22.49134948096886
+Larissa Alves,39,Outro,Não,Não,Baixo,Alta,Não,Moderado,Não,Sim,Não,Não,96.5,Não,Não,Não,Moderado,Não,76.6,1.68,27.1,Sem Risco,27.140022675736965
+Fernanda Moura,41,M,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,99.6,Não,Não,Não,Moderado,Não,61.0,1.75,19.9,Sem Risco,19.918367346938776
+Luiza Moura,82,Outro,Sim,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,,96.7,Não,Não,Não,Baixo,Não,58.1,1.67,20.8,Sem Risco,20.832586324357276
+Carlos Gomes,69,F,Não,Não,Baixo,Média,Sim,Alto,Não,Não,Sim,Não,99.9,Não,Sim,Não,Alto,Não,85.6,1.86,24.7,Sem Risco,24.74274482599144
+Gabriel Rodrigues,59,M,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.3,Não,Não,Não,Moderado,Não,89.9,1.85,26.3,Sem Risco,26.26734842951059
+Beatriz Nunes,53,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,99.0,Não,Não,Não,Baixo,Sim,80.2,1.74,26.5,Sem Risco,26.48962874884397
+Mariana Moura,51,Outro,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Sim,Não,97.2,Não,Não,Não,Baixo,Não,101.9,1.65,37.4,Risco,37.428833792470165
+Mariana Lima,72,F,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Sim,Não,98.7,Não,Não,Não,Baixo,Não,92.4,1.77,29.5,Sem Risco,29.493440582208176
+Gustavo Freitas,49,M,Não,Não,Alto,Baixa,Sim,Moderado,Não,Não,Não,Não,91.8,Não,Não,Não,Baixo,Não,66.7,1.84,19.7,Sem Risco,19.70108695652174
+Gabriel Dias,46,F,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,96.3,Não,Sim,Não,Moderado,Não,96.8,1.82,29.2,Sem Risco,29.223523729018233
+Luiza Araújo,70,Outro,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,97.5,Não,Não,Não,Baixo,Não,59.9,1.72,20.2,Sem Risco,20.247431043807467
+Larissa Ferreira,57,M,Sim,Não,Moderado,Baixa,Não,Alto,Sim,Não,Não,Não,95.2,Não,Não,Não,Baixo,Não,60.5,1.77,19.3,Sem Risco,19.311181333588685
+Gustavo Nunes,37,F,Sim,Não,Baixo,Média,Não,Alto,Não,Não,Não,Não,97.1,Não,Não,Sim,Moderado,Não,83.7,1.82,25.3,Sem Risco,25.268687356599443
+Carlos Dias,60,M,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,93.6,Não,Não,Não,Moderado,Não,78.7,1.71,26.9,Sem Risco,26.91426421805
+Fernanda Moreira 469,48,M,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Sim,,93.6,Não,Não,Não,Alto,Não,86.3,1.73,28.8,Sem Risco,28.834909285308562
+Camila Lima,59,F,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,96.4,Não,Não,Sim,Moderado,Não,71.6,1.63,26.9,Sem Risco,26.94869961233016
+Gustavo Rodrigues,35,M,Não,Sim,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,94.9,Não,Não,Sim,Baixo,Não,83.7,1.62,31.9,Sem Risco,31.893004115226333
+Tiago Moreira,54,F,Sim,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,,95.1,Não,Não,Não,Baixo,Sim,75.8,1.73,25.3,Risco,25.326606301580405
+Pedro Martins,45,F,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,97.5,Não,Não,Não,Alto,Não,73.9,1.71,,Sem Risco,25.2727334906467
+Carolina Freitas,66,M,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,98.1,Não,Não,Não,Baixo,Não,73.4,1.82,22.2,Risco,22.159159521796884
+Gustavo Rodrigues,38,F,Não,Não,Moderado,Média,Não,Moderado,Sim,Não,Não,Não,95.5,Sim,Não,Não,Moderado,Não,90.5,1.63,34.1,Sem Risco,34.06225300161843
+Paula Rodrigues,62,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Sim,96.7,Não,Não,Não,Alto,Não,80.8,1.84,23.9,Sem Risco,23.86578449905482
+Carolina Nunes,41,M,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,99.7,Não,Não,Não,Moderado,Não,55.4,1.72,18.7,Sem Risco,18.726338561384534
+Maria Santos,44,F,Não,Não,Moderado,Baixa,Não,Alto,Sim,Não,Não,Não,96.9,Não,Não,Sim,Moderado,Não,76.5,1.7,26.5,Sem Risco,26.47058823529412
+Larissa Nunes,35,M,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,98.4,Não,Não,Não,Moderado,Não,67.8,1.55,28.2,Sem Risco,28.220603537981265
+Gabriel Freitas,26,Outro,Não,Não,Alto,Média,Não,Moderado,Não,Não,Sim,Não,95.3,Não,Sim,Não,Alto,Não,89.0,1.82,26.9,Sem Risco,26.86873565994445
+Carolina Ferreira,69,Outro,Sim,Não,Moderado,Média,Não,Baixo,Não,Sim,Não,Não,98.1,Não,Não,Não,Moderado,Não,80.8,1.68,28.6,Risco,28.628117913832202
+Tiago Ferreira,49,M,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.95772442588726,Não,Não,Não,Alto,Não,68.8,1.77,22.0,Sem Risco,21.960483896709118
+Beatriz Gomes,41,Outro,Sim,Não,Moderado,Baixa,Não,Alto,Não,Não,Sim,Não,92.7,Não,Não,Não,Moderado,Não,73.4,1.88,20.8,Sem Risco,20.76731552738796
+Maria Dias,41,Outro,Não,Sim,Baixo,Alta,Não,Alto,Não,Não,Não,Não,99.8,Não,Não,Não,Moderado,Não,96.1,1.72,32.5,Sem Risco,32.48377501352083
+Lucas Alves,52,M,Sim,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,96.5,Não,Não,Sim,Moderado,Não,58.6,1.78,18.5,Risco,18.495139502588057
+Carlos Silva,41,Outro,Não,Não,Baixo,Baixa,Não,Baixo,Não,Sim,Não,Não,91.9,Não,Não,Não,Alto,Não,65.9,1.85,19.3,Sem Risco,19.254930606281956
+Lucas Barbosa,36,Outro,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,94.3,Não,Não,Não,Moderado,Não,91.0,1.83,27.2,Sem Risco,27.173101615455817
+André Freitas,22,M,Não,Não,Baixo,Baixa,Sim,Baixo,Sim,Não,Não,Não,95.5,Não,Não,Não,Moderado,Não,78.3,1.78,24.7,Sem Risco,24.71278878929428
+Lucas Nunes,75,F,Sim,Sim,Baixo,Baixa,Sim,Baixo,Não,Não,Não,Não,94.5,Não,Não,Não,Moderado,Não,103.9,1.74,34.3,Risco,34.317611309287884
+Felipe Moreira,36,F,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,,99.7,Não,Não,Não,Alto,Não,80.9,1.62,30.8,Sem Risco,30.826093583295226
+Rafael Freitas,61,F,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,97.6,Não,Não,Sim,Moderado,Não,78.0,1.77,,Sem Risco,24.897060231734173
+Rafael Moreira,42,F,Sim,Sim,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.95772442588726,Não,Não,Não,Alto,Não,69.5,1.66,25.2,Sem Risco,25.221367397300046
+Fernanda Costa,55,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,,92.5,Não,Sim,Não,Moderado,Não,93.4,1.77,29.8,Risco,29.812633662102204
+Gabriel Araújo,50,F,Sim,Não,Alto,Alta,Não,Alto,Não,Não,Não,Não,98.8,Não,Não,Não,Alto,Sim,77.6,1.66,28.2,Risco,28.160836115546523
+Fernanda Souza,42,Outro,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,94.2,Não,Não,Não,Moderado,Não,79.6,1.68,28.2,Sem Risco,28.202947845804992
+Gustavo Rodrigues,60,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,97.1,Não,Não,Não,Moderado,Não,75.6,1.8,23.3,Sem Risco,23.33333333333333
+Fernanda Santos,48,M,Sim,Não,Moderado,Baixa,Sim,Moderado,Não,Sim,Sim,Não,96.6,Sim,Não,Sim,Alto,Não,75.4,1.74,24.9,Risco,24.904214559386975
+Beatriz Moura,58,Outro,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Sim,Não,97.1,Não,Não,Sim,Baixo,Não,94.6,1.72,32.0,Sem Risco,31.976744186046513
+Paula Ribeiro,35,F,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,94.0,Não,Não,Não,Moderado,Não,71.9,1.52,31.1,Sem Risco,31.12015235457064
+Mariana Santos,45,F,Não,Sim,Moderado,Média,Não,Baixo,Não,Sim,Não,Não,97.6,Não,Não,Não,Baixo,Não,60.2,1.74,19.9,Sem Risco,19.883736292773154
+Mariana Santos,26,F,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,95.5,Não,Não,Não,Baixo,Não,86.8,1.76,28.0,Sem Risco,28.02169421487603
+Larissa Souza,45,M,Não,Não,Moderado,Média,Não,Moderado,Sim,Sim,Não,,97.8,Não,Sim,Não,Moderado,Não,63.2,1.75,20.6,Sem Risco,20.636734693877553
+João Moreira,42,M,Não,Não,Baixo,Média,Não,Moderado,Sim,Sim,Não,Não,95.6,Não,Não,Não,Baixo,Não,93.1,1.73,31.1,Sem Risco,31.10695312238965
+Camila Araújo,45,F,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,97.2,Não,Não,Não,Moderado,Não,79.9,1.76,25.8,Sem Risco,25.794163223140497
+Fernanda Gomes,62,M,Não,Não,Baixo,Média,Sim,Baixo,Não,Não,Não,Não,94.1,Não,Não,Não,Alto,Não,71.2,1.44,34.3,Sem Risco,34.336419753086425
+Pedro Dias,68,M,Não,Não,Baixo,Média,Não,Moderado,Não,Sim,Sim,Não,96.8,Não,Não,Não,Baixo,Não,94.9,1.76,30.6,Sem Risco,30.636621900826448
+Luiza Barbosa,56,M,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Sim,Não,92.4,Não,Sim,Não,Baixo,Não,63.0,1.81,19.2,Sem Risco,19.230182228869694
+Maria Martins,44,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Sim,Não,90.9,Não,Não,Não,Baixo,Não,116.0,1.68,41.1,Sem Risco,41.09977324263039
+Fernanda Santos 513,64,M,Não,Não,Moderado,Alta,Sim,Moderado,Não,Não,Não,Não,93.3,Não,Não,Não,Baixo,Sim,77.0,1.74,25.4,Risco,25.43268595587264
+Gabriel Ferreira,56,Outro,Sim,Não,Baixo,Média,Não,Alto,Não,Não,Sim,Não,98.6,Não,Não,Sim,Moderado,Não,97.0,1.59,38.4,Sem Risco,38.36873541394723
+Lucas Nunes,60,F,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,98.0,Não,Sim,Não,Baixo,Não,57.9,1.62,22.1,Risco,22.062185642432553
+Ana Gomes,54,Outro,Não,Sim,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.4,Não,Não,Não,Alto,Não,84.0,1.71,28.7,Sem Risco,28.726787729557817
+Rafael Pereira 517,32,F,Não,Não,Moderado,Média,Não,Moderado,Não,Sim,Sim,Não,97.8,Não,Não,Não,Alto,Não,99.4,1.73,33.2,Sem Risco,33.21193491262655
+Fernanda Dias,75,F,Não,Não,Moderado,Baixa,Não,Alto,Sim,Não,Não,,96.1,Não,Não,Não,Baixo,Não,83.8,1.8,25.9,Sem Risco,25.864197530864196
+Luiza Freitas,49,Outro,Não,Não,Alto,Média,Sim,Moderado,Não,Sim,Sim,Não,97.0,Não,Não,Sim,Moderado,Não,67.2,1.79,21.0,Sem Risco,20.973128179519993
+Camila Nunes,69,Outro,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Sim,Não,99.0,Não,Não,Sim,Moderado,Não,68.4,1.69,23.9,Sem Risco,23.948741290571064
+Ana Pereira,35,Outro,Sim,Não,Moderado,Média,Não,Moderado,Não,Sim,Sim,Não,96.0,Não,Não,Não,Alto,Não,71.9,1.77,22.9,Risco,22.949982444380606
+Gabriel Alves 522,31,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Sim,90.8,Sim,Não,Sim,Baixo,Não,75.9,1.67,27.2,Risco,27.215031015812688
+Mariana Moura,42,F,Sim,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,96.5,Não,Não,Não,Moderado,Não,107.4,1.73,35.9,Sem Risco,35.88492766213372
+Fernanda Dias,59,M,Não,Não,Moderado,Média,Sim,Moderado,Não,Não,Não,Não,94.2,Não,Não,Não,Baixo,Não,65.5,1.68,23.2,Sem Risco,23.207199546485263
+Rafael Rodrigues,38,M,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Sim,Sim,94.9,Não,Não,Não,Moderado,Não,40.8,1.52,17.7,Sem Risco,17.65927977839335
+Ana Moura,43,Outro,Sim,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,,98.4,Não,Não,Não,Baixo,Não,88.3,1.68,31.3,Risco,31.28543083900227
+André Ferreira,48,F,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,95.2,Não,Não,Sim,Baixo,Não,75.1,1.77,24.0,Sem Risco,23.97140030004149
+Beatriz Freitas,58,M,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.8,Não,Não,Sim,Baixo,Sim,69.0,1.71,23.6,Risco,23.59700420642249
+Larissa Lima,36,F,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,99.0,Não,Não,Não,Moderado,Não,62.2,1.73,20.8,Sem Risco,20.782518627418224
+Camila Moreira,60,F,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Sim,Não,95.0,Não,Não,Sim,Baixo,Não,74.1,1.71,25.3,Sem Risco,25.341130604288498
+Mariana Freitas,54,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.5,Não,Não,Não,Moderado,Não,72.2,1.94,19.2,Sem Risco,19.183760229567437
+André Moura,38,F,Não,Sim,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,98.4,Não,Não,Não,Moderado,Não,82.1,1.84,24.2,Sem Risco,24.249763705103966
+Tiago Moreira,46,F,Não,Não,Moderado,Média,Não,Moderado,Sim,Não,Sim,Não,98.4,Não,Não,Não,Moderado,Não,88.5,1.71,,Sem Risco,30.26572278649841
+André Moura,54,F,Sim,Não,Baixo,Média,Não,Baixo,Não,Sim,Não,Não,90.2,Não,Não,Não,Moderado,Não,87.4,1.72,29.5,Risco,29.542996214169825
+Maria Moura,69,Outro,Não,Não,Moderado,Média,Não,Alto,Não,Sim,Não,Não,97.3,Não,Não,Não,Baixo,Não,81.6,1.82,24.6,Sem Risco,24.634705953387268
+Felipe Dias,51,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Não,96.7,Sim,Não,Não,Baixo,Não,82.1,1.79,25.6,Sem Risco,25.623419993133798
+Fernanda Silva,54,M,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Não,97.1,Não,Não,Não,Baixo,Não,112.1,1.73,37.5,Sem Risco,37.45531090246917
+Carlos Dias,65,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,93.8,Não,Não,Não,Alto,Sim,95.4,1.68,33.8,Risco,33.801020408163275
+Beatriz Oliveira,41,M,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,98.3,Não,Não,Sim,Baixo,Não,65.9,1.75,21.5,Sem Risco,21.518367346938778
+Pedro Araújo,47,Outro,Sim,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,96.5,Sim,Não,Sim,Alto,Não,72.5,1.66,26.3,Sem Risco,26.31005951516911
+Luiza Lima,49,Outro,Não,Não,Moderado,Alta,Não,Alto,Não,Não,Não,Sim,98.0,Sim,Não,Sim,Baixo,Não,62.2,1.53,26.6,Sem Risco,26.570976974667865
+Beatriz Martins,76,Outro,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,94.9,Não,Não,Não,Alto,Não,79.5,1.65,29.2,Sem Risco,29.20110192837466
+Gustavo Oliveira,38,M,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,99.3,Não,Não,Não,Moderado,Não,92.8,1.74,30.7,Sem Risco,30.65134099616858
+Beatriz Souza,33,Outro,Sim,Não,Alto,Média,Não,Baixo,Não,Não,Sim,Não,98.9,Não,Não,Sim,Baixo,Não,68.2,1.61,26.3,Sem Risco,26.31071332124532
+André Lima,58,F,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,96.95772442588726,Não,Não,Não,Baixo,Sim,63.8,1.71,21.8,Sem Risco,21.818679251735578
+João Silva,56,Outro,Sim,Não,Moderado,Média,Não,Alto,Sim,Não,Sim,Não,94.3,Não,Não,Sim,Baixo,Não,80.2,1.75,26.2,Risco,26.187755102040818
+Paula Barbosa,45,F,Não,Não,Moderado,Média,Não,Baixo,Não,Sim,Não,Não,96.6,Não,Não,Não,Moderado,Não,71.3,1.75,23.3,Sem Risco,23.281632653061223
+Mariana Moura,35,F,Sim,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,96.8,Não,Sim,Não,Moderado,Não,78.0,1.71,,Sem Risco,26.674874320303687
+Carlos Souza,65,Outro,Não,Não,Moderado,Média,Sim,Alto,Não,Não,Sim,Não,97.5,Sim,Não,Não,Moderado,Não,63.0,1.53,26.9,Sem Risco,26.91272587466359
+Carolina Silva,41,M,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Não,93.4,Não,Não,Não,Baixo,Não,84.8,1.63,31.9,Sem Risco,31.916895630245776
+Mariana Santos,53,F,Não,Não,Alto,Média,Sim,Moderado,Não,Não,Não,Não,92.2,Não,Não,Não,Moderado,Não,61.7,1.64,22.9,Sem Risco,22.940214158239147
+Paula Costa,27,M,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,97.2,Não,Não,Não,Baixo,Não,93.1,1.7,32.2,Sem Risco,32.21453287197232
+Lucas Nunes,75,F,Sim,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,95.4,Não,Não,Não,Baixo,Não,94.5,1.59,37.4,Risco,37.37985048059807
+Tiago Gomes,48,F,Não,Não,Alto,Média,Sim,Moderado,Sim,Não,Não,Não,90.0,Não,Não,Não,Baixo,Não,61.6,1.74,20.3,Sem Risco,20.34614876469811
+Camila Moreira,55,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,95.8,Não,Não,Não,Baixo,Não,75.0,1.8,23.1,Sem Risco,23.148148148148145
+Gustavo Nunes,53,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.3,Sim,Sim,Não,Baixo,Não,70.7,1.6,27.6,Sem Risco,27.617187499999996
+Camila Lima,41,M,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Sim,Não,Não,98.5,Não,Não,Sim,Moderado,Sim,107.5,1.73,35.9,Sem Risco,35.918340071502556
+Paula Araújo,42,F,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Sim,Sim,92.8,Não,Não,Não,Moderado,Não,75.9,1.93,20.4,Sem Risco,20.376385943246802
+Paula Barbosa,40,M,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,99.2,Não,Não,Não,Baixo,Não,59.4,1.66,21.6,Sem Risco,21.55610393380752
+Gustavo Alves,64,F,Não,Não,Moderado,Baixa,Não,Alto,Não,Sim,Sim,Não,92.8,Não,Não,Não,Baixo,Não,78.4,1.71,26.8,Sem Risco,26.811668547587296
+Pedro Moura,41,M,Não,Não,Moderado,Baixa,Não,Baixo,Sim,Não,Sim,Não,93.3,Não,Não,Sim,Baixo,Não,61.9,1.77,19.8,Sem Risco,19.758051645440325
+Paula Costa,47,Outro,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,94.2,Não,Não,Sim,Alto,Não,75.8,1.69,26.5,Sem Risco,26.5396869857498
+Carlos Dias,56,F,Não,Não,Alto,Baixa,Não,Alto,Não,Não,Sim,Sim,93.4,Não,Não,Não,Baixo,Não,49.4,1.66,17.9,Sem Risco,17.9271302075773
+Larissa Costa,40,F,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Sim,98.3,Não,Não,Não,Baixo,Não,93.0,1.78,29.4,Sem Risco,29.352354500694357
+Ana Araújo,36,F,Não,Não,Baixo,Alta,Não,Baixo,Não,Não,Sim,Não,98.5,Não,Não,Não,Baixo,Sim,63.9,1.62,24.3,Sem Risco,24.348422496570638
+Gustavo Alves,41,F,Não,Sim,Moderado,Baixa,Não,Moderado,Não,Sim,Não,,98.2,Não,Não,Não,Moderado,Não,99.3,1.52,43.0,Sem Risco,42.97957063711911
+Gustavo Moura,29,F,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.8,Não,Não,Não,Moderado,Não,99.4,1.69,34.8,Sem Risco,34.80270298659011
+Fernanda Ribeiro,51,Outro,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,96.95772442588726,Não,Não,Não,Moderado,Não,66.0,1.7,22.8,Sem Risco,22.837370242214536
+Felipe Souza,70,Outro,Não,Não,Moderado,Média,Sim,Moderado,Não,Não,Não,Não,93.6,Não,Não,Não,Baixo,Não,81.7,1.7,28.3,Sem Risco,28.26989619377163
+Gabriel Costa,48,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,99.7,Não,Não,Não,Moderado,Não,67.9,1.69,23.8,Sem Risco,23.773677392248175
+Maria Dias,18,M,Não,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,Não,93.8,Não,Não,Não,Moderado,Não,72.7,1.65,26.7,Sem Risco,26.703397612488526
+João Ribeiro,57,Outro,Sim,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,96.5,Não,Não,Não,Baixo,Sim,69.1,1.66,25.1,Risco,25.076208448250835
+Fernanda Lima,52,F,Não,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,Não,99.9,Não,Não,Sim,Baixo,Não,94.6,1.48,43.2,Sem Risco,43.18845872899927
+Gustavo Dias,41,Outro,Não,Não,Baixo,Baixa,Não,Alto,Sim,Não,Não,Não,97.6,Não,Não,Não,Baixo,Não,83.5,1.72,28.2,Sem Risco,28.22471606273662
+Paula Gomes,35,Outro,Não,Não,Baixo,Baixa,Sim,Baixo,Sim,Não,Sim,Não,94.5,Não,Não,Não,Moderado,Não,75.4,1.71,25.8,Sem Risco,25.785711842960232
+Larissa Moura,45,F,Não,Não,Alto,Média,Não,Moderado,Não,Não,Sim,,98.9,Sim,Não,Sim,Moderado,Não,60.3,1.64,22.4,Sem Risco,22.41969066032124
+Luiza Lima,65,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Sim,Sim,Não,96.2,Não,Sim,Sim,Baixo,Sim,101.4,1.61,39.1,Risco,39.11886115504803
+Luiza Moreira,43,M,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,100.0,Não,Não,Sim,Baixo,Não,83.6,1.61,32.3,Sem Risco,32.25184213572007
+André Santos,55,M,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Não,95.6,Não,Não,Não,Moderado,Não,82.7,1.76,26.7,Sem Risco,26.69808884297521
+Maria Silva,55,F,Sim,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,92.6,Sim,Não,Sim,Moderado,Não,58.1,1.82,17.5,Risco,17.54015215553677
+Pedro Lima 589,30,Outro,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,99.3,Não,Não,Não,Moderado,Não,99.3,1.81,30.3,Sem Risco,30.310430084551754
+Beatriz Santos,44,Outro,Sim,Não,Moderado,Alta,Não,Alto,Sim,Sim,Sim,Não,99.5,Sim,Não,Não,Baixo,Não,71.0,1.61,27.4,Risco,27.390918560240728
+Larissa Silva 591,59,Outro,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,92.7,Não,Não,Não,Baixo,Não,89.7,1.78,28.3,Risco,28.3108193409923
+João Silva,54,F,Não,Não,Alto,Alta,Sim,Baixo,Não,Não,Não,,98.2,Não,Sim,Sim,Baixo,Não,90.9,1.45,43.2,Sem Risco,43.234244946492275
+Paula Ferreira 593,52,Outro,Sim,Não,Alto,Alta,Não,Moderado,Não,Não,Não,Não,95.5,Não,Não,Não,Baixo,Sim,71.2,1.84,21.0,Risco,21.03024574669187
+Luiza Souza,53,M,Não,Não,Alto,Baixa,Sim,Moderado,Não,Não,Não,Não,98.1,Não,Não,Sim,Alto,Não,37.1,1.7,12.8,Sem Risco,12.837370242214535
+Mariana Costa,47,F,Não,Não,Alto,Média,Não,Moderado,Não,Não,Sim,Não,96.95772442588726,Não,Não,Não,Baixo,Não,88.7,1.75,29.0,Sem Risco,28.96326530612245
+Beatriz Ribeiro,38,M,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,97.6,Não,Não,Não,Baixo,Sim,95.7,1.87,27.4,Sem Risco,27.367096571248815
+Beatriz Martins,36,F,Sim,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,95.8,Não,Não,Sim,Alto,Não,58.7,1.67,21.0,Sem Risco,21.047724909462513
+Mariana Ferreira,37,M,Não,Não,Baixo,Alta,Não,Alto,Não,Não,Não,Sim,96.3,Não,Não,Não,Alto,Não,83.7,1.76,27.0,Sem Risco,27.020919421487605
+Maria Oliveira,54,Outro,Não,Sim,Alto,Média,Não,Baixo,Não,Não,Não,Não,99.3,Não,Não,Sim,Moderado,Sim,79.1,1.91,21.7,Sem Risco,21.682519667772265
+Paula Araújo,38,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.7,Não,Não,Não,Moderado,Não,78.8,1.76,25.4,Sem Risco,25.43904958677686
+Luiza Oliveira,35,Outro,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,97.2,Não,Não,Sim,Moderado,Não,91.2,1.68,32.3,Sem Risco,32.312925170068034
+Gabriel Dias,46,M,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,93.8,Sim,Não,Não,Baixo,Não,57.3,1.74,18.9,Sem Risco,18.925881886642884
+André Santos,55,Outro,Não,Não,Baixo,Baixa,Sim,Moderado,Sim,Não,Sim,Não,91.0,Sim,Não,Não,Baixo,Não,65.8,1.76,21.2,Sem Risco,21.242252066115704
+Rafael Santos,20,F,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,95.2,Não,Não,Não,Baixo,Não,60.7,1.67,21.8,Sem Risco,21.764853526479975
+Paula Dias,44,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,97.9,Não,Não,Não,Baixo,Não,60.1,1.59,23.8,Sem Risco,23.772793797713696
+Gabriel Silva,53,M,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,91.6,Não,Não,Sim,Moderado,Sim,97.3,1.69,34.1,Risco,34.06743461363398
+Gustavo Lima,38,M,Não,Não,Alto,Baixa,Não,Alto,Não,Não,Não,Não,93.5,Não,Sim,Não,Moderado,Não,90.7,1.84,26.8,Sem Risco,26.78993383742911
+Mariana Oliveira,53,Outro,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,96.95772442588726,Não,Sim,Sim,Moderado,Não,79.1,1.8,24.4,Risco,24.413580246913575
+Gabriel Silva,41,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,94.5,Não,Não,Não,Alto,Sim,113.0,1.82,34.1,Sem Risco,34.1142374109407
+Larissa Alves,39,Outro,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Sim,96.7,Não,Não,Não,Alto,Não,89.5,1.7,31.0,Sem Risco,30.96885813148789
+Pedro Freitas,81,F,Não,Sim,Moderado,Alta,Sim,Moderado,Não,Não,Não,Não,97.9,Não,Sim,Não,Alto,Não,96.9,1.71,,Risco,33.138401559454195
+Lucas Martins,46,M,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Sim,92.8,Não,Não,Não,Baixo,Não,92.7,1.83,27.7,Sem Risco,27.680730986294005
+Pedro Silva,72,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,95.4,Não,Não,Não,Moderado,Não,85.7,1.77,27.4,Sem Risco,27.35484694691819
+Beatriz Ribeiro,76,M,Não,Não,Baixo,Média,Sim,Moderado,Não,Sim,Não,Não,97.1,Não,Não,Sim,Moderado,Não,90.8,1.77,29.0,Risco,28.98273165437773
+Luiza Barbosa,52,Outro,Não,Não,Alto,Baixa,Sim,Alto,Não,Não,Não,Sim,93.7,Não,Sim,Sim,Moderado,Não,77.7,1.69,27.2,Sem Risco,27.204929799376778
+Ana Silva,60,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,98.5,Não,Não,Não,Moderado,Não,93.1,1.98,23.7,Sem Risco,23.747576777879807
+Carolina Freitas,33,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.5,Não,Não,Não,Baixo,Não,76.8,1.64,28.6,Sem Risco,28.554431885782275
+João Ferreira,38,M,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,99.8,Não,Não,Não,Baixo,Não,56.0,1.7,19.4,Sem Risco,19.377162629757787
+Paula Alves,57,M,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,94.5,Não,Não,Não,Baixo,Não,88.8,1.81,27.1,Sem Risco,27.10539971307347
+Gustavo Pereira,71,F,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,97.0,Não,Não,Não,Moderado,Não,64.4,1.76,20.8,Sem Risco,20.79028925619835
+Rafael Araújo,43,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,97.5,Não,Não,Não,Alto,Não,72.1,1.7,24.9,Sem Risco,24.94809688581315
+Camila Ribeiro,45,Outro,Não,Não,Alto,Média,Sim,Alto,Não,Não,Sim,Não,94.2,Não,Não,Sim,Baixo,Sim,72.6,1.68,25.7,Sem Risco,25.72278911564626
+Pedro Rodrigues,55,F,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,93.7,Não,Não,Sim,Moderado,Não,52.3,1.79,16.3,Sem Risco,16.32283636590618
+Larissa Freitas,44,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,96.95772442588726,Sim,Não,Não,Baixo,Não,84.2,1.72,28.5,Sem Risco,28.461330448891296
+Gabriel Freitas,61,F,Não,Não,Moderado,Alta,Não,Baixo,Não,Não,Sim,Não,99.0,Não,Não,Não,Moderado,Não,49.4,1.69,17.3,Sem Risco,17.296313154301323
+Felipe Gomes,40,M,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Sim,Não,98.2,Não,Não,Não,Baixo,Não,83.8,1.46,39.3,Risco,39.31319196847439
+Fernanda Gomes,34,F,Sim,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,95.0,Não,Não,Não,Moderado,Não,95.1,1.71,32.5,Sem Risco,32.52282753667795
+Larissa Gomes,44,Outro,Não,Não,Alto,Alta,Não,Baixo,Sim,Sim,Não,,96.1,Não,Não,Não,Alto,Não,76.5,1.61,29.5,Sem Risco,29.512750279695997
+Gabriel Ferreira,48,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,97.5,Não,Não,Não,Alto,Não,85.5,1.65,31.4,Sem Risco,31.404958677685954
+Tiago Alves,78,F,Sim,Não,Moderado,Baixa,Sim,Baixo,Não,Não,Não,Não,95.6,Não,Não,Não,Baixo,Não,76.5,1.77,24.4,Risco,24.41827061189313
+Gustavo Rodrigues,62,F,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Não,,96.95772442588726,Não,Não,Não,Baixo,Não,65.2,1.75,21.3,Sem Risco,21.289795918367346
+Tiago Moreira,58,M,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,96.95772442588726,Não,Sim,Não,Moderado,Não,96.9,1.71,33.1,Sem Risco,33.138401559454195
+Pedro Barbosa,46,M,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,97.0,Não,Não,Não,Baixo,Não,80.5,1.74,26.6,Sem Risco,26.58871713568503
+Fernanda Alves,51,M,Sim,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,96.2,Não,Não,Não,Baixo,Não,63.3,1.6,24.7,Sem Risco,24.726562499999993
+Camila Martins,63,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.2,Não,Não,Sim,Alto,Não,81.5,1.71,27.9,Sem Risco,27.871823809035263
+Tiago Martins,46,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.2,Não,Não,Sim,Moderado,Não,59.1,1.72,20.0,Sem Risco,19.977014602487834
+Paula Santos,58,F,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Sim,Não,97.7,Não,Não,Sim,Moderado,Não,100.2,1.77,32.0,Sem Risco,31.983146605381595
+Paula Freitas,66,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Sim,Não,94.3,Não,Não,Não,Alto,Não,84.8,1.75,27.7,Sem Risco,27.689795918367345
+Ana Alves,52,F,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,97.5,Não,Não,Sim,Moderado,Não,101.4,1.97,26.1,Sem Risco,26.1279600092762
+Luiza Freitas,54,Outro,Sim,Não,Moderado,Média,Não,Moderado,Sim,Não,Não,Não,96.3,Não,Não,Sim,Moderado,Não,68.6,1.67,24.6,Sem Risco,24.597511563698948
+Gabriel Barbosa,48,M,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,99.2,Não,Não,Sim,Baixo,Não,108.8,1.66,39.5,Sem Risco,39.48323414138482
+Rafael Alves,51,F,Sim,Não,Baixo,Baixa,Sim,Baixo,Não,Não,Não,Não,93.5,Não,Não,Sim,Moderado,Não,69.2,1.6,27.0,Sem Risco,27.031249999999996
+Felipe Rodrigues,56,M,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,95.4,Não,Não,Não,Moderado,Não,87.3,1.77,27.9,Sem Risco,27.865555874748633
+Beatriz Silva,31,F,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,90.9,Não,Não,Não,Alto,Não,70.8,1.75,23.1,Sem Risco,23.118367346938776
+Camila Oliveira,59,M,Sim,Não,Alto,Baixa,Não,Moderado,Sim,Não,Não,Não,94.7,Não,Não,Sim,Moderado,Sim,101.1,1.79,31.6,Risco,31.5533223057957
+Beatriz Ferreira,58,F,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,92.8,Não,Não,Sim,Moderado,Não,74.5,1.66,27.0,Sem Risco,27.035854260415157
+André Araújo,21,M,Sim,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Sim,96.9,Não,Sim,Não,Baixo,Não,98.0,1.63,36.9,Risco,36.88509164816139
+Felipe Moura,72,F,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.6,Não,Não,Não,Moderado,Não,72.8,1.88,20.6,Sem Risco,20.597555454956996
+Maria Souza,47,F,Não,Não,Baixo,Alta,Não,Moderado,Não,Sim,Sim,Não,95.6,Não,Não,Sim,Baixo,Não,98.2,1.84,29.0,Sem Risco,29.005198487712665
+Ana Pereira,52,F,Não,Não,Alto,Média,Sim,Alto,Sim,Não,Não,Não,96.5,Não,Não,Não,Baixo,Não,57.0,1.68,20.2,Sem Risco,20.19557823129252
+André Pereira,47,F,Sim,Não,Moderado,Baixa,Sim,Baixo,Não,Não,Sim,Não,94.4,Sim,Não,Não,Baixo,Não,82.8,1.71,28.3,Sem Risco,28.31640504770699
+Gustavo Pereira,70,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,98.6,Não,Sim,Não,Baixo,Não,55.1,1.75,18.0,Sem Risco,17.991836734693877
+Gustavo Silva,43,F,Não,Sim,Moderado,Média,Não,Alto,Não,Sim,Sim,Não,99.1,Sim,Não,Não,Baixo,Não,87.6,1.61,33.8,Sem Risco,33.79499247714208
+Felipe Dias,64,M,Não,Não,Baixo,Média,Não,Baixo,Sim,Não,Sim,Não,97.0,Não,Não,Sim,Alto,Não,68.2,1.63,25.7,Sem Risco,25.669012759230686
+Carlos Costa,43,M,Sim,Não,Moderado,Média,Não,Alto,Não,Não,Sim,Não,96.95772442588726,Não,Não,Não,Baixo,Sim,89.0,1.67,31.9,Risco,31.912223457277065
+Tiago Souza,40,M,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,95.2,Não,Não,Sim,Baixo,Não,83.2,1.66,30.2,Sem Risco,30.19306140223545
+Beatriz Gomes,67,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Sim,97.7,Não,Não,Não,Alto,Não,72.4,1.73,24.2,Sem Risco,24.190584383039862
+Carolina Martins,18,M,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,98.1,Não,Não,Sim,Moderado,Não,106.5,1.7,36.9,Risco,36.85121107266436
+Beatriz Rodrigues,53,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Sim,96.2,Não,Não,Não,Alto,Não,100.6,1.73,33.6,Sem Risco,33.61288382505262
+Fernanda Freitas,54,M,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,98.5,Não,Não,Sim,Baixo,Não,85.3,1.71,29.2,Sem Risco,29.171368968229544
+Gabriel Souza,49,M,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,95.1,Não,Não,Não,Alto,Não,41.1,1.69,14.4,Sem Risco,14.390252442141383
+Luiza Rodrigues,43,Outro,Não,Não,Moderado,Média,Sim,Baixo,Não,Não,Não,Não,97.1,Não,Não,Não,Baixo,Não,87.5,1.65,32.1,Sem Risco,32.139577594123054
+Camila Freitas,61,Outro,Não,Não,Moderado,Média,Não,Alto,Sim,Não,Não,Não,97.2,Não,Não,Sim,Moderado,Não,63.6,1.7,22.0,Sem Risco,22.006920415224915
+Camila Pereira,48,M,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,98.0,Não,Não,Não,Moderado,Não,77.5,1.72,26.2,Sem Risco,26.196592752839376
+Paula Pereira,56,M,Não,Não,Baixo,Alta,Não,Moderado,Não,Sim,Não,Não,92.8,Não,Não,Não,Moderado,Sim,80.8,1.76,26.1,Risco,26.084710743801654
+Luiza Gomes,66,M,Não,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,Não,98.6,Não,Sim,Não,Moderado,Não,64.6,1.73,21.6,Risco,21.58441645227037
+Beatriz Silva,28,F,Não,Sim,Alto,Baixa,Não,Baixo,Não,Não,Sim,Não,94.2,Não,Não,Não,Baixo,Não,103.2,1.67,37.0,Sem Risco,37.00383663810104
+Camila Araújo,32,Outro,Não,Não,Moderado,Média,Sim,Baixo,Não,Não,Não,Não,93.1,Não,Não,Não,Baixo,Não,62.8,1.65,23.1,Sem Risco,23.067033976124886
+Larissa Pereira,51,M,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.5,Não,Não,Não,Alto,Sim,67.1,1.65,24.6,Sem Risco,24.646464646464647
+Mariana Ferreira,61,F,Não,Não,Moderado,Alta,Não,Baixo,Sim,Não,Não,Não,97.6,Não,Não,Não,Moderado,Não,58.9,1.71,,Sem Risco,20.142949967511374
+Paula Ferreira,59,Outro,Não,Não,Baixo,Baixa,Não,Baixo,Sim,Não,Sim,,99.1,Não,Não,Sim,Moderado,Não,71.8,1.79,22.4,Sem Risco,22.408788739427607
+Tiago Araújo,70,M,Sim,Não,Baixo,Média,Não,Moderado,Não,Sim,Sim,Não,94.1,Não,Não,Não,Baixo,Não,104.1,1.96,27.1,Risco,27.09808413161183
+Tiago Souza,36,F,Não,Não,Moderado,Baixa,Não,Alto,Sim,Não,Não,Não,94.3,Não,Não,Não,Alto,Não,77.7,1.57,31.5,Sem Risco,31.52257698081058
+Paula Costa,63,M,Não,Não,Baixo,Baixa,Sim,Moderado,Sim,Não,Não,Não,99.6,Não,Não,Não,Baixo,Sim,65.8,1.77,21.0,Sem Risco,21.002904657027035
+Mariana Ferreira,33,M,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,96.95772442588726,Não,Sim,Não,Moderado,Não,96.6,1.65,35.5,Risco,35.48209366391185
+Felipe Ribeiro,48,M,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Não,98.3,Não,Não,Não,Moderado,Não,55.4,1.66,20.1,Sem Risco,20.10451444331543
+Felipe Souza,76,F,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Não,94.6,Não,Não,Não,Moderado,Não,88.5,1.82,26.7,Sem Risco,26.717787706798696
+Luiza Freitas,58,F,Não,Não,Alto,Média,Não,Alto,Não,Não,Sim,Não,99.1,Não,Sim,Não,Moderado,Não,78.1,1.64,29.0,Sem Risco,29.037775133848903
+Carlos Santos,62,F,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Sim,96.1,Não,Não,Não,Moderado,Não,92.2,1.8,28.5,Risco,28.456790123456788
+Carolina Moreira,18,F,Não,Não,Baixo,Média,Não,Baixo,Não,Sim,Não,Não,97.8,Não,Não,Não,Moderado,Não,104.2,1.69,36.5,Sem Risco,36.483316410489834
+Fernanda Dias,35,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.9,Não,Não,Não,Baixo,Não,77.1,1.68,27.3,Sem Risco,27.317176870748302
+Lucas Barbosa,30,F,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,98.6,Não,Não,Não,Baixo,Não,80.8,1.76,26.1,Sem Risco,26.084710743801654
+Lucas Lima,57,F,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,92.7,Não,Sim,Não,Baixo,Não,101.7,1.75,33.2,Sem Risco,33.208163265306126
+Mariana Martins,71,F,Não,Não,Alto,Alta,Não,Moderado,Não,Não,Não,Não,96.7,Não,Não,Não,Moderado,Não,80.5,1.83,24.0,Sem Risco,24.037743736749377
+Camila Martins,90,M,Não,Não,Moderado,Alta,Não,Alto,Não,Não,Não,Não,97.1,Não,Não,Não,Moderado,Não,107.7,1.67,38.6,Sem Risco,38.61737602639033
+Gustavo Nunes,37,F,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,97.0,Não,Não,Não,Moderado,Não,88.6,1.72,29.9,Sem Risco,29.94862087614927
+Felipe Araújo,47,M,Não,Não,Baixo,Média,Não,Alto,Não,Sim,Não,Não,95.0,Não,Não,Sim,Baixo,Sim,79.4,1.78,25.1,Sem Risco,25.059967175861633
+Pedro Moura,47,F,Não,Não,Baixo,Média,Não,Alto,Não,Não,Sim,Não,98.2,Sim,Não,Não,Baixo,Não,73.4,1.68,26.0,Sem Risco,26.006235827664405
+Pedro Moreira,49,Outro,Não,Sim,Moderado,Média,Não,Baixo,Não,Não,Sim,Não,94.6,Não,Não,Não,Moderado,Não,93.2,1.75,30.4,Sem Risco,30.432653061224492
+Carlos Araújo,48,F,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,96.95772442588726,Não,Não,Não,Baixo,Não,88.2,1.73,29.5,Sem Risco,29.469745063316516
+Gabriel Moreira,46,Outro,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,94.9,Não,Não,Não,Moderado,Sim,85.9,1.78,27.1,Risco,27.111475823759626
+Gabriel Santos,42,Outro,Sim,Não,Baixo,Média,Não,Moderado,Sim,Não,Sim,Não,98.8,Não,Não,Sim,Baixo,Não,48.5,1.65,17.8,Sem Risco,17.814508723599634
+João Souza,60,M,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Sim,Sim,96.95772442588726,Não,Não,Não,Baixo,Não,104.4,1.71,35.7,Sem Risco,35.70329332102186
+Felipe Moura 706,53,Outro,Sim,Não,Alto,Alta,Não,Baixo,Não,Não,Não,Não,96.7,Não,Não,Não,Moderado,Não,54.3,1.72,18.4,Risco,18.35451595457004
+Carlos Lima,53,F,Sim,Não,Baixo,Alta,Sim,Moderado,Não,Não,Não,Não,97.4,Não,Sim,Não,Baixo,Não,116.1,1.56,47.7,Risco,47.70710059171597
+Luiza Ribeiro,65,F,Sim,Não,Moderado,Alta,Não,Alto,Não,Não,Não,Não,99.5,Não,Não,Não,Moderado,Não,68.6,1.68,24.3,Risco,24.305555555555557
+Rafael Oliveira,42,M,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,96.9,Não,Não,Sim,Baixo,Não,82.4,1.94,21.9,Sem Risco,21.89393134233181
+Camila Oliveira,58,M,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,91.9,Não,Não,Não,Moderado,Não,81.0,1.55,33.7,Sem Risco,33.71488033298647
+Carlos Araújo,58,F,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Sim,95.9,Não,Não,Não,Moderado,Não,88.8,1.82,26.8,Sem Risco,26.808356478686147
+André Moura 713,44,F,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Sim,Não,95.8,Não,Não,Não,Baixo,Não,79.3,1.75,25.9,Sem Risco,25.893877551020406
+Ana Barbosa,49,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.2,Não,Não,Não,Moderado,Não,61.7,1.79,19.3,Sem Risco,19.25657751006523
+Pedro Alves,40,M,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,98.9,Não,Não,Não,Baixo,Não,78.0,1.58,,Sem Risco,31.244992789617044
+Lucas Oliveira,67,M,Não,Sim,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,96.95772442588726,Não,Não,Não,Moderado,Não,99.6,1.73,33.3,Sem Risco,33.278759731364225
+Lucas Barbosa,39,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,99.6,Não,Não,Não,Moderado,Não,101.4,1.5,45.1,Sem Risco,45.06666666666667
+Carlos Oliveira,54,M,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,95.7,Não,Não,Não,Baixo,Não,78.1,1.66,28.3,Sem Risco,28.342284801858035
+Ana Dias,60,F,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Sim,Não,94.7,Não,Não,Não,Moderado,Não,105.0,1.65,38.6,Sem Risco,38.567493112947666
+Camila Gomes,34,F,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,98.1,Não,Não,Não,Alto,Não,78.0,1.64,,Sem Risco,29.000594883997625
+Rafael Oliveira,41,F,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,99.8,Não,Não,Não,Moderado,Não,82.2,1.73,27.5,Sem Risco,27.46500050118614
+João Ferreira,62,F,Sim,Não,Moderado,Média,Não,Moderado,Sim,Não,Sim,Não,99.1,Não,Não,Sim,Alto,Não,89.9,1.49,40.5,Sem Risco,40.49367145624071
+Gustavo Ferreira,47,F,Sim,Não,Baixo,Alta,Não,Alto,Não,Não,Sim,Sim,97.6,Não,Não,Não,Moderado,Não,106.5,1.73,35.6,Sem Risco,35.58421597781416
+Larissa Martins,48,Outro,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,94.1,Sim,Não,Sim,Baixo,Não,77.1,1.71,,Sem Risco,26.367087308915565
+Carolina Oliveira,65,M,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Sim,,95.5,Não,Não,Sim,Alto,Não,100.2,1.47,46.4,Sem Risco,46.36956823545745
+Beatriz Gomes,49,Outro,Não,Não,Moderado,Alta,Não,Moderado,Não,Sim,Não,Não,92.7,Não,Não,Sim,Alto,Não,67.2,1.68,23.8,Sem Risco,23.809523809523814
+Beatriz Moreira,58,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,97.2,Não,Não,Não,Moderado,Não,75.8,1.74,25.0,Sem Risco,25.03633240850839
+Pedro Silva,72,M,Não,Não,Alto,Média,Não,Baixo,Não,Não,Não,Não,96.1,Não,Não,Não,Alto,Não,92.5,1.89,25.9,Sem Risco,25.895131715237536
+Rafael Costa,50,M,Não,Não,Alto,Média,Sim,Moderado,Não,Sim,Sim,Sim,97.6,Não,Não,Não,Baixo,Não,60.7,1.62,23.1,Sem Risco,23.12909617436366
+Gustavo Nunes,59,Outro,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,95.3,Não,Não,Sim,Baixo,Sim,39.6,1.63,14.9,Risco,14.90458805374685
+Camila Martins,67,M,Não,Não,Moderado,Alta,Sim,Baixo,Não,Não,Não,Não,94.8,Não,Não,Não,Moderado,Não,77.7,1.85,22.7,Sem Risco,22.7027027027027
+Rafael Oliveira,66,F,Sim,Não,Baixo,Baixa,Não,Alto,Sim,Não,Não,Não,96.9,Não,Não,Não,Moderado,Não,73.4,1.71,25.1,Sem Risco,25.101740706542188
+Lucas Moreira,54,M,Não,Não,Baixo,Média,Não,Moderado,Não,Sim,Não,Não,96.9,Não,Não,Não,Moderado,Sim,56.6,1.77,18.1,Sem Risco,18.06632832200198
+Fernanda Barbosa,53,F,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,97.2,Não,Não,Não,Alto,Não,74.0,1.62,28.2,Sem Risco,28.19692120103642
+Maria Alves,56,Outro,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,98.0,Não,Não,Não,Baixo,Não,111.5,1.77,35.6,Sem Risco,35.59002840818411
+Fernanda Pereira,35,M,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Sim,Não,,97.7,Não,Não,Não,Baixo,Não,97.4,1.63,36.7,Sem Risco,36.65926455643796
+João Pereira,37,F,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Sim,94.6,Não,Não,Não,Moderado,Não,56.4,1.68,20.0,Sem Risco,19.982993197278915
+André Nunes,57,F,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.95772442588726,Não,Não,Sim,Baixo,Não,68.0,1.65,25.0,Sem Risco,24.977043158861342
+Luiza Rodrigues,46,F,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,95.4,Não,Não,Não,Alto,Não,64.8,1.69,22.7,Sem Risco,22.688281222646268
+Ana Silva,57,Outro,Sim,Não,Baixo,Média,Sim,Baixo,Não,Não,Não,Sim,97.2,Não,Não,Não,Moderado,Não,66.2,1.62,25.2,Sem Risco,25.224813290656908
+Rafael Nunes,78,M,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,96.4,Não,Não,Sim,Alto,Não,69.4,1.69,24.3,Risco,24.29886908721684
+Larissa Moura,45,M,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Sim,Sim,Não,98.7,Não,Não,Não,Baixo,Não,107.1,1.77,34.2,Sem Risco,34.18557885665038
+Larissa Dias,62,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.2,Não,Não,Não,Moderado,Não,66.0,1.55,27.5,Sem Risco,27.47138397502601
+Rafael Souza,37,M,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,97.1,Não,Não,Não,Moderado,Não,61.0,1.68,21.6,Sem Risco,21.612811791383223
+Mariana Nunes 749,28,M,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,97.5,Não,Não,Não,Baixo,Não,103.8,1.73,34.7,Sem Risco,34.68208092485549
+Mariana Santos,54,Outro,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Sim,Não,99.7,Não,Não,Não,Baixo,Não,92.9,1.71,31.8,Sem Risco,31.77045928661811
+Lucas Pereira,57,M,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,97.8,Não,Não,Não,Moderado,Não,76.0,1.79,23.7,Sem Risco,23.719609250647608
+Paula Barbosa,54,F,Não,Não,Moderado,Alta,Não,Moderado,Não,Sim,Não,Não,98.2,Não,Não,Não,Baixo,Não,89.1,1.72,30.1,Sem Risco,30.11763115197404
+Tiago Rodrigues,33,M,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Sim,97.6,Não,Não,Sim,Moderado,Não,90.4,1.75,29.5,Sem Risco,29.518367346938778
+Luiza Alves,32,M,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,95.8,Não,Não,Não,Alto,Não,94.6,1.62,36.0,Sem Risco,36.04633440024386
+Gustavo Oliveira,63,F,Não,Não,Alto,Baixa,Sim,Moderado,Não,Não,Sim,Não,93.3,Não,Não,Não,Moderado,Não,68.8,1.87,19.7,Sem Risco,19.674568903886296
+Fernanda Gomes,54,Outro,Sim,Não,Alto,Alta,Não,Moderado,Não,Não,Não,Não,97.5,Sim,Não,Não,Baixo,Sim,68.2,1.74,22.5,Risco,22.52609327520148
+João Rodrigues,54,F,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Sim,93.2,Não,Não,Não,Moderado,Não,65.3,1.65,24.0,Sem Risco,23.98530762167126
+Carolina Alves,40,Outro,Sim,Não,Baixo,Média,Não,Alto,Não,Não,Não,Não,97.3,Não,Não,Sim,Moderado,Não,67.8,1.67,24.3,Sem Risco,24.310660116891963
+Carlos Moreira,59,F,Não,Sim,Baixo,Baixa,Não,Baixo,Não,Sim,Sim,Não,92.8,Sim,Não,Não,Moderado,Sim,71.4,1.63,26.9,Risco,26.873423915089017
+Lucas Silva,68,M,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,97.6,Não,Não,Sim,Moderado,Não,72.1,1.68,25.5,Sem Risco,25.54563492063492
+Mariana Moreira,18,M,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,95.0,Não,Não,Não,Moderado,Não,50.5,1.68,17.9,Sem Risco,17.892573696145128
+Gabriel Silva,35,Outro,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,98.2,Não,Não,Não,Moderado,Não,70.5,1.59,27.9,Sem Risco,27.886555120446182
+Camila Araújo,61,M,Não,Não,Moderado,Alta,Não,Alto,Não,Não,Não,Não,96.95772442588726,Sim,Não,Não,Moderado,Não,80.2,1.84,23.7,Sem Risco,23.688563327032135
+Rafael Oliveira,33,F,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Sim,96.7,Sim,Não,Não,Baixo,Não,85.8,1.7,29.7,Sem Risco,29.688581314878896
+André Barbosa,55,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.95772442588726,Não,Não,Não,Moderado,Sim,89.6,1.78,28.3,Sem Risco,28.279257669486174
+Gustavo Oliveira,34,M,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,97.8,Não,Não,Não,Baixo,Não,49.8,1.82,15.0,Sem Risco,15.03441613331723
+Camila Lima,29,F,Não,Não,Moderado,Alta,Sim,Moderado,Não,Não,Não,Não,96.6,Não,Não,Sim,Moderado,Não,68.7,1.84,20.3,Sem Risco,20.291824196597354
+Gabriel Martins,45,F,Não,Não,Alto,Alta,Não,Moderado,Não,Não,Sim,Não,95.0,Não,Não,Não,Alto,Não,75.1,1.73,25.1,Sem Risco,25.09271943599853
+Gabriel Moura,44,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,93.3,Não,Não,Não,Moderado,Não,29.2,1.89,8.2,Sem Risco,8.174463200918227
+Carlos Lima,54,M,Não,Não,Baixo,Baixa,Sim,Alto,Não,Não,Não,Não,97.5,Não,Não,Sim,Moderado,Não,93.8,1.8,29.0,Sem Risco,28.950617283950614
+Lucas Souza,38,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,97.9,Não,Não,Não,Baixo,Sim,61.9,1.79,19.3,Sem Risco,19.31899753440904
+Gabriel Barbosa,63,F,Não,Não,Alto,Média,Não,Baixo,Não,Não,Não,Não,93.4,Não,Não,Não,Baixo,Não,63.0,1.88,17.8,Sem Risco,17.824807605251245
+Carlos Moura,53,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.6,Não,Não,Não,Moderado,Não,78.7,1.55,32.8,Sem Risco,32.757544224765866
+Carolina Santos,49,F,Não,Não,Moderado,Média,Sim,Baixo,Sim,Não,Sim,Não,97.9,Não,Não,Não,Moderado,Não,43.0,1.63,16.2,Sem Risco,16.184274906846326
+Lucas Oliveira,61,F,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.0,Não,Não,Sim,Moderado,Não,76.1,1.68,27.0,Sem Risco,26.962868480725625
+Gustavo Nunes,48,F,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Sim,99.0,Não,Sim,Não,Baixo,Não,79.1,1.64,29.4,Sem Risco,29.409577632361692
+Rafael Pereira,37,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,94.7,Não,Não,Não,Moderado,Não,51.3,1.76,16.6,Sem Risco,16.56120867768595
+Ana Moura,22,M,Sim,Não,Alto,Baixa,Sim,Moderado,Não,Não,Não,Sim,92.7,Não,Sim,Não,Baixo,Não,71.5,1.55,29.8,Risco,29.760665972944846
+Ana Silva,59,F,Não,Não,Alto,Média,Não,Baixo,Não,Não,Sim,Não,97.7,Não,Não,Não,Moderado,Não,87.0,1.81,26.6,Sem Risco,26.555965935105768
+Lucas Costa,45,F,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Sim,Não,94.2,Não,Não,Não,Moderado,Sim,72.1,1.7,24.9,Risco,24.94809688581315
+Pedro Dias,72,M,Não,Não,Moderado,Baixa,Não,Alto,Sim,Não,Não,Não,93.9,Não,Não,Não,Moderado,Não,77.1,1.61,29.7,Sem Risco,29.744222830909298
+João Oliveira,47,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.3,Não,Não,Não,Alto,Não,81.0,1.66,29.4,Sem Risco,29.3946871824648
+Lucas Oliveira,41,F,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Sim,97.0,Não,Não,Sim,Moderado,Não,82.3,1.7,28.5,Sem Risco,28.477508650519034
+Ana Santos,52,M,Sim,Não,Moderado,Média,Não,Alto,Não,Sim,Não,Não,98.6,Não,Não,Sim,Baixo,Não,82.4,1.37,43.9,Risco,43.902179125153175
+Luiza Dias,52,Outro,Não,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,Não,99.1,Não,Não,Sim,Baixo,Sim,79.0,1.79,24.7,Sem Risco,24.65590961580475
+Larissa Silva,65,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,95.8,Não,Não,Não,Baixo,Sim,71.5,1.57,29.0,Sem Risco,29.00726195788876
+Luiza Rodrigues,45,M,Não,Não,Moderado,Baixa,Sim,Alto,Não,Não,Não,Não,98.3,Não,Não,Não,Alto,Sim,63.1,1.81,19.3,Sem Risco,19.260706327645675
+Rafael Ribeiro,42,M,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Sim,93.7,Não,Não,Não,Moderado,Não,68.8,1.69,24.1,Sem Risco,24.08879240922937
+Maria Freitas,20,F,Não,Não,Moderado,Alta,Sim,Baixo,Não,Não,Não,Não,96.95772442588726,Não,Não,Não,Baixo,Não,88.0,1.77,28.1,Sem Risco,28.088991030674453
+Fernanda Araújo,25,Outro,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,98.3,Não,Sim,Não,Moderado,Não,89.4,1.5,39.7,Sem Risco,39.733333333333334
+Maria Oliveira,51,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,93.8,Não,Não,Não,Baixo,Não,91.8,1.56,37.7,Sem Risco,37.721893491124256
+Paula Silva,38,F,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Sim,Não,96.6,Não,Não,Não,Alto,Não,82.6,1.82,24.9,Sem Risco,24.936601859678778
+Larissa Moreira,23,F,Não,Não,Baixo,Baixa,Não,Baixo,Sim,Não,Não,Sim,97.8,Não,Não,Não,Alto,Não,89.3,1.82,27.0,Sem Risco,26.959304431831903
+Tiago Nunes,66,F,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,93.3,Não,Não,Sim,Baixo,Não,75.9,1.86,21.9,Risco,21.938952480055498
+Luiza Silva,78,F,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,98.6,Não,Não,Não,Baixo,Não,74.2,1.61,28.6,Sem Risco,28.62543883337834
+André Rodrigues,54,F,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.1,Não,Não,Não,Baixo,Não,96.0,1.73,32.1,Sem Risco,32.075912994086
+Luiza Souza,47,F,Não,Não,Baixo,Baixa,Não,Baixo,Não,Sim,Não,Sim,97.4,Não,Não,Não,Moderado,Não,111.9,1.71,38.3,Sem Risco,38.26818508258952
+Rafael Moreira,56,M,Sim,Não,Baixo,Média,Não,Alto,Sim,Sim,Sim,Não,98.6,Não,Não,Não,Alto,Não,84.8,1.76,27.4,Risco,27.376033057851238
+Mariana Dias,46,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.9,Sim,Não,Não,Alto,Não,84.1,1.44,40.6,Sem Risco,40.557484567901234
+Beatriz Pereira,51,F,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,94.6,Não,Não,Sim,Baixo,Não,90.3,1.53,38.6,Sem Risco,38.57490708701781
+Beatriz Dias,24,F,Não,Não,Moderado,Alta,Não,Alto,Não,Não,Não,,95.5,Não,Não,Não,Alto,Sim,68.7,1.53,29.3,Sem Risco,29.347686787133156
+Tiago Dias,56,F,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,96.95772442588726,Não,Não,Não,Baixo,Não,75.2,1.69,26.3,Sem Risco,26.329610307762337
+Larissa Moreira,58,Outro,Não,Não,Baixo,Alta,Não,Moderado,Não,Sim,Não,Não,99.4,Não,Não,Sim,Baixo,Sim,88.8,1.66,32.2,Risco,32.22528668892437
+Maria Oliveira,37,F,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,94.7,Não,Não,Não,Moderado,Não,107.8,1.71,,Sem Risco,36.86604425293253
+Carolina Costa,59,F,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Sim,Não,96.95772442588726,Não,Não,Não,Moderado,Não,86.3,1.83,25.8,Risco,25.76965570784436
+Luiza Gomes,75,M,Sim,Não,Baixo,Baixa,Sim,Baixo,Não,Não,Não,Não,96.9,Não,Sim,Não,Moderado,Não,75.7,1.81,23.1,Risco,23.106742773419615
+Tiago Lima,31,F,Não,Não,Moderado,Média,Sim,Moderado,Não,Não,Não,Não,95.3,Não,Não,Sim,Baixo,Não,79.6,1.7,27.5,Sem Risco,27.54325259515571
+Pedro Rodrigues,49,Outro,Não,Não,Baixo,Alta,Não,Moderado,Não,Sim,Sim,Sim,95.3,Não,Não,Sim,Moderado,Não,86.8,1.75,28.3,Sem Risco,28.34285714285714
+Tiago Souza,39,F,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,94.8,Não,Não,Não,Baixo,Não,79.1,1.79,24.7,Sem Risco,24.687119627976653
+Lucas Pereira,52,Outro,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,100.0,Não,Não,Sim,Baixo,Não,102.9,1.82,31.1,Sem Risco,31.06508875739645
+Larissa Gomes,53,F,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Não,99.1,Não,Não,Sim,Moderado,Não,95.5,1.67,34.2,Sem Risco,34.24289146258381
+Mariana Dias,70,Outro,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,95.3,Não,Não,Não,Baixo,Não,78.0,1.67,,Sem Risco,27.968016063681024
+Fernanda Ferreira,23,M,Não,Não,Baixo,Média,Sim,Baixo,Não,Não,Não,Não,97.8,Não,Não,Não,Moderado,Não,94.6,1.79,29.5,Sem Risco,29.52467151462189
+Tiago Martins,61,M,Não,Não,Moderado,Alta,Não,Alto,Não,Sim,Não,Não,96.7,Não,Não,Não,Moderado,Não,73.4,1.75,24.0,Risco,23.967346938775513
+Gabriel Oliveira,20,F,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,98.1,Não,Não,Não,Moderado,Não,82.9,1.55,34.5,Sem Risco,34.505723204994794
+Luiza Oliveira,32,F,Não,Não,Moderado,Média,Não,Moderado,Sim,Não,Sim,Sim,96.95772442588726,Não,Não,Não,Baixo,Não,90.9,1.64,33.8,Sem Risco,33.79684711481262
+Felipe Silva,51,F,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Sim,97.3,Não,Não,Não,Baixo,Não,76.3,1.49,34.4,Sem Risco,34.367821269312195
+Pedro Rodrigues,53,M,Não,Não,Moderado,Média,Não,Baixo,Sim,Não,Sim,Não,94.1,Não,Não,Não,Alto,Não,73.7,1.68,26.1,Sem Risco,26.112528344671208
+João Santos,64,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Não,94.5,Não,Não,Não,Baixo,Não,75.4,1.71,25.8,Sem Risco,25.785711842960232
+Luiza Barbosa,36,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Sim,Não,Não,99.0,Não,Não,Não,Baixo,Não,35.3,1.57,14.3,Sem Risco,14.321067791796827
+Beatriz Moreira,54,Outro,Não,Não,Moderado,Baixa,Não,Alto,Não,Sim,Não,Não,97.8,Não,Não,Não,Moderado,Não,83.5,1.75,27.3,Sem Risco,27.26530612244898
+Tiago Alves,61,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.6,Não,Sim,Não,Alto,Não,76.7,1.68,27.2,Sem Risco,27.175453514739235
+Maria Ferreira,66,F,Não,Não,Alto,Baixa,Não,Baixo,Não,Sim,Sim,Não,93.9,Não,Não,Não,Alto,Não,66.5,1.6,26.0,Sem Risco,25.976562499999996
+Ana Oliveira,33,Outro,Sim,Não,Baixo,Média,Sim,Moderado,Não,Sim,Não,Não,96.1,Não,Não,Sim,Baixo,Não,62.6,1.79,19.5,Risco,19.53746761961237
+Luiza Oliveira,60,M,Sim,Não,Moderado,Baixa,Não,Alto,Não,Sim,Não,Não,97.1,Não,Não,Não,Moderado,Não,52.3,1.65,19.2,Risco,19.21028466483012
+Gabriel Freitas,46,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.0,Não,Sim,Não,Baixo,Sim,68.0,2.1,15.4,Sem Risco,15.419501133786847
+Carolina Barbosa,36,M,Não,Não,Alto,Alta,Não,Moderado,Não,Não,Sim,Não,96.8,Não,Não,Sim,Moderado,Não,67.2,1.65,24.7,Sem Risco,24.683195592286506
+Gabriel Costa,75,Outro,Não,Não,Alto,Baixa,Não,Alto,Sim,Sim,Sim,Não,96.8,Não,Não,Não,Moderado,Não,91.1,1.56,37.4,Sem Risco,37.43425378040762
+Paula Moreira,43,F,Não,Não,Moderado,Alta,Sim,Baixo,Não,Não,Sim,Não,92.7,Sim,Não,Sim,Alto,Não,54.1,1.7,18.7,Sem Risco,18.719723183391007
+Fernanda Alves,49,Outro,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Sim,Não,95.6,Não,Não,Não,Baixo,Não,92.4,1.85,27.0,Sem Risco,26.99780861943024
+Tiago Moreira,62,M,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,,95.8,Não,Não,Sim,Moderado,Não,65.2,1.81,19.9,Sem Risco,19.901712401941335
+Maria Rodrigues 843,40,M,Sim,Não,Alto,Média,Não,Baixo,Não,Não,Não,Não,99.1,Não,Não,Não,Baixo,Não,68.1,1.72,23.0,Sem Risco,23.019199567333693
+Fernanda Freitas,48,M,Não,Sim,Baixo,Média,Não,Moderado,Não,Não,Não,Não,99.8,Não,Não,Não,Baixo,Não,82.1,1.68,29.1,Sem Risco,29.08871882086168
+João Costa,43,F,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,98.2,Não,Sim,Não,Baixo,Não,79.6,1.66,28.9,Sem Risco,28.886630860792568
+Pedro Araújo,41,F,Sim,Não,Alto,Baixa,Sim,Moderado,Não,Sim,Não,Não,99.3,Não,Não,Não,Baixo,Não,83.0,1.66,30.1,Sem Risco,30.120481927710845
+Pedro Moreira,46,F,Não,Não,Baixo,Alta,Não,Moderado,Não,Sim,Não,Não,99.9,Não,Sim,Não,Baixo,Não,73.5,1.83,21.9,Sem Risco,21.947505150945084
+Gustavo Rodrigues,60,M,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Sim,95.6,Não,Sim,Não,Alto,Sim,63.1,1.69,22.1,Risco,22.09306396834845
+Rafael Moura,54,F,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,96.6,Não,Não,Não,Moderado,Não,73.2,1.76,23.6,Sem Risco,23.63119834710744
+Rafael Dias,48,M,Não,Sim,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,99.0,Não,Não,Sim,Baixo,Não,64.2,1.61,24.8,Sem Risco,24.767562979823307
+Pedro Rodrigues,48,Outro,Não,Não,Alto,Média,Não,Moderado,Não,Sim,Não,Não,94.0,Não,Não,Sim,Baixo,Sim,85.4,1.67,30.6,Risco,30.621391946645634
+Tiago Alves,66,Outro,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,96.3,Não,Não,Não,Baixo,Não,101.5,1.76,32.8,Sem Risco,32.76730371900827
+André Barbosa,40,Outro,Não,Sim,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,92.7,Não,Não,Não,Moderado,Não,86.7,1.68,30.7,Sem Risco,30.718537414965994
+Tiago Alves,53,M,Não,Não,Alto,Alta,Não,Moderado,Não,Não,Não,Não,95.7,Não,Não,Sim,Baixo,Sim,89.0,1.82,26.9,Sem Risco,26.86873565994445
+Gustavo Santos,57,M,Sim,Não,Alto,Média,Não,Baixo,Não,Não,Não,Não,98.6,Não,Sim,Sim,Baixo,Sim,99.5,1.72,33.6,Risco,33.63304488912926
+Ana Moura,28,M,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,94.4,Não,Não,Não,Baixo,Não,73.2,1.77,23.4,Sem Risco,23.36493344824284
+Carlos Costa,47,Outro,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,99.9,Não,Não,Não,Baixo,Não,84.9,1.79,26.5,Sem Risco,26.497300333947134
+Pedro Barbosa,34,M,Sim,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Sim,96.4,Não,Não,Não,Alto,Não,91.1,1.74,30.1,Sem Risco,30.08984013740256
+Carolina Ribeiro,60,M,Sim,Não,Baixo,Baixa,Sim,Baixo,Não,Sim,Não,Sim,96.1,Não,Não,Não,Baixo,Não,90.8,1.75,29.6,Risco,29.648979591836735
+Pedro Martins,51,F,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Sim,Não,96.95772442588726,Não,Não,Não,Baixo,Não,74.3,1.61,28.7,Sem Risco,28.664017591913886
+Rafael Nunes,23,M,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.8,Não,Não,Não,Alto,Não,72.8,1.77,23.2,Sem Risco,23.23725621628523
+Ana Barbosa,18,M,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,98.5,Não,Não,Não,Baixo,Não,67.0,1.48,30.6,Sem Risco,30.58802045288532
+Ana Dias,30,F,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,97.1,Não,Não,Não,Baixo,Não,81.7,1.62,31.1,Sem Risco,31.13092516384697
+Paula Rodrigues,73,F,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.0,Não,Sim,Não,Moderado,Não,91.6,1.76,29.6,Sem Risco,29.571280991735538
+Gustavo Araújo,61,Outro,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.2,Sim,Não,Sim,Moderado,Não,73.4,1.53,31.4,Risco,31.35546157460806
+Maria Pereira,81,M,Não,Não,Baixo,Média,Não,Alto,Não,Não,Não,Não,97.6,Não,Não,Não,Moderado,Não,69.5,1.76,22.4,Sem Risco,22.43672520661157
+Carolina Freitas,45,Outro,Não,Não,Alto,Média,Não,Moderado,Não,Não,Sim,Sim,98.8,Não,Não,Não,Moderado,Não,78.0,1.71,,Sem Risco,26.674874320303687
+Maria Martins,52,F,Sim,Não,Moderado,Média,Não,Alto,Sim,Não,Sim,Não,96.6,Não,Não,Não,Baixo,Não,65.9,1.63,24.8,Sem Risco,24.803342240957512
+Mariana Santos,44,F,Não,Não,Alto,Alta,Não,Moderado,Não,Sim,Não,Não,97.6,Não,Sim,Não,Moderado,Não,84.8,1.85,24.8,Risco,24.777209642074503
+Beatriz Silva,55,F,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Sim,96.4,Não,Não,Sim,Baixo,Não,86.7,1.76,28.0,Sem Risco,27.989411157024794
+Fernanda Ribeiro,38,M,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,94.6,Não,Não,Não,Moderado,Não,96.7,1.61,37.3,Sem Risco,37.30565950387716
+Mariana Lima,32,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,99.1,Não,Não,Sim,Moderado,Não,76.7,1.89,21.5,Sem Risco,21.47196327090507
+Gabriel Ribeiro,31,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Sim,Não,96.6,Não,Sim,Sim,Baixo,Não,95.7,1.67,34.3,Sem Risco,34.31460432428556
+Carlos Moura,37,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,97.9,Não,Não,Não,Baixo,Sim,65.8,1.65,24.2,Sem Risco,24.168962350780536
+André Pereira,67,Outro,Não,Não,Baixo,Baixa,Não,Baixo,Não,Sim,Sim,Não,92.8,Sim,Não,Não,Baixo,Não,85.1,1.68,30.2,Risco,30.151643990929706
+Lucas Nunes,76,M,Não,Não,Baixo,Baixa,Não,Baixo,Não,Sim,Não,Não,96.0,Não,Sim,Não,Moderado,Sim,83.8,1.62,31.9,Risco,31.9311080627953
+Luiza Costa,44,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.2,Não,Não,Não,Alto,Sim,107.7,1.63,40.5,Sem Risco,40.53596296435696
+Maria Alves,51,M,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,94.3,Não,Não,Não,Moderado,Não,80.4,1.67,28.8,Sem Risco,28.828570404101978
+Beatriz Costa,54,Outro,Não,Não,Moderado,Baixa,Sim,Alto,Não,Sim,Não,Não,96.2,Não,Não,Não,Baixo,Não,78.0,1.66,,Sem Risco,28.305995064595734
+André Martins,33,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Sim,Não,96.95772442588726,Não,Não,Não,Baixo,Não,66.0,1.75,21.6,Sem Risco,21.551020408163264
+João Alves,54,Outro,Sim,Não,Alto,Alta,Não,Moderado,Não,Não,Não,Não,100.0,Não,Não,Sim,Baixo,Não,64.8,1.69,22.7,Risco,22.688281222646268
+Luiza Araújo,36,F,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Sim,Não,93.0,Não,Sim,Sim,Moderado,Não,74.2,1.63,27.9,Sem Risco,27.927283676465056
+Beatriz Pereira,56,F,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Sim,Não,96.5,Não,Não,Sim,Moderado,Não,68.7,1.64,25.5,Sem Risco,25.542831647828677
+Pedro Ferreira,55,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.4,Não,Não,Não,Moderado,Não,85.1,1.74,28.1,Sem Risco,28.108072400581317
+Mariana Alves,77,F,Não,Sim,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.0,Não,Não,Não,Moderado,Não,84.4,1.72,28.5,Sem Risco,28.528934559221206
+Camila Nunes,38,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.7,Não,Não,Não,Baixo,Sim,108.5,1.77,34.6,Sem Risco,34.63244916850203
+Larissa Lima,55,M,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Sim,95.3,Não,Não,Não,Baixo,Não,81.7,1.86,23.6,Sem Risco,23.615446872470805
+Mariana Ribeiro,51,F,Não,Não,Baixo,Média,Não,Baixo,Não,Sim,Não,Não,97.3,Não,Não,Não,Moderado,Não,84.8,1.65,31.1,Sem Risco,31.14784205693297
+Rafael Barbosa,18,F,Não,Não,Moderado,Média,Não,Baixo,Não,Sim,Não,Não,96.3,Não,Não,Não,Baixo,Não,91.5,1.67,32.8,Sem Risco,32.80863422854889
+Felipe Ribeiro,67,F,Não,Não,Moderado,Média,Não,Moderado,Não,Sim,Não,Não,100.0,Não,Sim,Sim,Moderado,Não,83.8,1.97,21.6,Risco,21.59292947512175
+André Freitas,28,M,Sim,Não,Alto,Alta,Não,Baixo,Não,Sim,Não,Não,96.4,Não,Não,Não,Moderado,Não,73.7,1.71,,Risco,25.204336377004893
+João Nunes,55,F,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,96.2,Não,Não,Não,Baixo,Não,75.1,1.69,26.3,Sem Risco,26.294597528097757
+Paula Freitas,32,F,Sim,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,Não,96.1,Não,Não,Não,Moderado,Não,80.7,1.82,24.4,Sem Risco,24.36299963772491
+Ana Araújo,42,F,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Sim,Não,93.0,Não,Não,Não,Moderado,Não,71.1,1.71,24.3,Risco,24.315173899661435
+Gabriel Ribeiro,36,F,Não,Não,Baixo,Média,Sim,Baixo,Não,Não,Não,Não,97.4,Não,Sim,Não,Moderado,Não,84.0,1.76,27.1,Sem Risco,27.117768595041323
+Carlos Lima,40,F,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Sim,Sim,99.4,Não,Sim,Sim,Moderado,Não,60.9,1.74,20.1,Sem Risco,20.114942528735632
+Maria Freitas,54,F,Não,Não,Baixo,Baixa,Sim,Baixo,Não,Não,Não,Não,98.8,Não,Não,Não,Alto,Não,71.7,1.72,24.2,Sem Risco,24.236073553272043
+Lucas Silva,47,F,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Sim,Não,Não,94.8,Não,Não,Não,Moderado,Não,87.4,1.87,25.0,Sem Risco,24.993565729646257
+Rafael Barbosa,60,M,Não,Sim,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,98.4,Não,Não,Sim,Alto,Não,73.6,1.77,23.5,Sem Risco,23.49261068020045
+Tiago Dias,65,F,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,95.4,Não,Não,Não,Moderado,Não,48.2,1.75,15.7,Sem Risco,15.738775510204082
+Mariana Moreira,57,Outro,Não,Sim,Moderado,Alta,Não,Alto,Não,Não,Não,Não,97.6,Não,Sim,Sim,Baixo,Não,51.2,1.74,16.9,Risco,16.911084687541287
+Beatriz Nunes,70,M,Sim,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,97.9,Não,Não,Não,Alto,Não,75.8,1.47,35.1,Risco,35.07797676893887
+Paula Pereira,48,Outro,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,96.2,Não,Não,Não,Moderado,Não,72.6,1.65,26.7,Sem Risco,26.666666666666668
+Lucas Ribeiro,50,M,Não,Não,Moderado,Baixa,Não,Baixo,Sim,Sim,Não,Não,98.1,Não,Sim,Não,Baixo,Sim,96.8,1.88,27.4,Risco,27.387958352195565
+Gabriel Oliveira,40,F,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,96.5,Não,Não,Não,Moderado,Não,38.3,1.67,13.7,Sem Risco,13.733013015884397
+Fernanda Barbosa,44,F,Não,Sim,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,99.8,Não,Não,Sim,Moderado,Não,89.9,1.7,31.1,Sem Risco,31.107266435986165
+Beatriz Ribeiro,29,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,96.7,Não,Não,Não,Moderado,Não,107.0,1.63,40.3,Sem Risco,40.27249802401295
+Ana Araújo,53,M,Não,Sim,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,99.3,Não,Não,Não,Baixo,Não,55.2,1.75,18.0,Sem Risco,18.024489795918367
+Larissa Costa,52,Outro,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Sim,Não,97.4,Não,Não,Não,Alto,Sim,94.0,1.77,30.0,Sem Risco,30.00414951003862
+André Ferreira,55,M,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,98.6,Não,Não,Sim,Alto,Não,76.1,1.63,28.6,Sem Risco,28.642402800255937
+Lucas Costa,68,Outro,Não,Não,Baixo,Média,Não,Alto,Não,Não,Sim,Não,96.4,Não,Não,Sim,Moderado,Não,54.5,1.77,17.4,Sem Risco,17.39602285422452
+Pedro Araújo,40,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.2,Não,Sim,Não,Moderado,Não,103.4,1.78,32.6,Sem Risco,32.634768337331145
+Gabriel Santos 918,42,F,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,94.3,Não,Não,Não,Moderado,Não,57.6,1.74,19.0,Sem Risco,19.024970273483948
+Carlos Pereira,18,M,Sim,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,95.2,Não,Sim,Não,Baixo,Não,95.5,1.68,33.8,Risco,33.836451247165535
+Larissa Oliveira,31,Outro,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,95.1,Não,Não,Não,Moderado,Não,83.9,1.64,31.2,Sem Risco,31.194229625223088
+Camila Martins,33,Outro,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,98.2,Não,Sim,Não,Moderado,Não,76.7,1.69,26.9,Sem Risco,26.854802002731002
+Gustavo Silva,45,F,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,95.0,Não,Não,Não,Baixo,Não,74.3,1.84,21.9,Sem Risco,21.945888468809073
+João Silva,18,F,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Sim,Não,96.3,Não,Não,Não,Baixo,Não,56.2,1.78,17.7,Sem Risco,17.737659386441106
+Mariana Rodrigues,40,M,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,97.5,Sim,Não,Não,Alto,Não,56.4,1.81,17.2,Sem Risco,17.21559170965477
+Gustavo Nunes,45,M,Não,Não,Alto,Baixa,Não,Alto,Não,Não,Sim,Não,94.6,Não,Não,Não,Moderado,Sim,96.6,1.73,32.3,Sem Risco,32.27638745029904
+Pedro Santos,69,F,Sim,Sim,Moderado,Baixa,Sim,Moderado,Não,Não,Sim,Sim,99.3,Não,Não,Não,Moderado,Não,111.0,1.78,35.0,Risco,35.03345537179649
+Felipe Nunes,66,F,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,91.8,Não,Não,Sim,Baixo,Não,90.5,1.79,28.2,Risco,28.245061015573796
+Camila Lima,72,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,96.8,Não,Não,Não,Moderado,Não,75.8,1.57,30.8,Sem Risco,30.75175463507647
+Beatriz Costa,76,Outro,Não,Sim,Alto,Média,Sim,Moderado,Não,Não,Não,Não,99.8,Não,Não,Não,Baixo,Não,108.9,1.65,40.0,Sem Risco,40.00000000000001
+João Alves,61,M,Sim,Não,Alto,Alta,Não,Baixo,Não,Sim,Não,Não,95.0,Não,Não,Não,Moderado,Não,113.1,1.63,42.6,Risco,42.56840678986789
+Carlos Silva,47,M,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,99.1,Não,Não,Sim,Moderado,Não,78.0,1.68,27.6,Sem Risco,27.636054421768712
+Ana Rodrigues,48,M,Sim,Sim,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,97.6,Não,Sim,Não,Moderado,Não,91.6,1.87,26.2,Risco,26.194629529011404
+Gustavo Ribeiro,49,M,Não,Não,Baixo,Média,Não,Baixo,Não,Sim,Não,Não,95.6,Não,Não,Não,Moderado,Não,88.9,1.62,33.9,Sem Risco,33.87440938881268
+Carolina Santos,39,M,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,92.9,Não,Não,Não,Baixo,Não,76.8,1.72,26.0,Sem Risco,25.959978366684695
+Maria Souza,65,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,98.0,Não,Não,Não,Moderado,Não,60.1,1.79,18.8,Sem Risco,18.757217315314755
+Ana Moreira,46,M,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Sim,Não,97.8,Não,Não,Não,Moderado,Não,73.0,1.77,23.3,Sem Risco,23.301094832264035
+Carlos Silva,43,M,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,95.6,Não,Não,Não,Baixo,Não,73.1,1.74,24.1,Sem Risco,24.144536926938827
+André Ribeiro,46,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,98.7,Não,Não,Não,Moderado,Não,84.6,1.86,24.5,Sem Risco,24.453694068678455
+Camila Souza,26,M,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.1,Não,Sim,Não,Moderado,Não,64.5,1.55,26.8,Sem Risco,26.847034339229964
+Fernanda Souza,26,Outro,Não,Sim,Alto,Média,Não,Moderado,Não,Não,Não,Não,96.9,Não,Não,Não,Alto,Não,78.3,1.71,,Sem Risco,26.77746999076639
+Carlos Freitas,54,F,Sim,Não,Baixo,Baixa,Não,Baixo,Sim,Sim,Não,Não,96.2,Não,Não,Sim,Alto,Não,60.4,1.55,25.1,Risco,25.140478668054108
+André Costa,77,Outro,Sim,Sim,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,92.4,Não,Não,Não,Baixo,Não,67.3,1.67,24.1,Risco,24.1313779626376
+Fernanda Pereira,60,Outro,Sim,Não,Alto,Baixa,Não,Alto,Não,Não,Não,Não,98.1,Não,Não,Não,Moderado,Não,69.7,1.77,22.2,Sem Risco,22.247757668613744
+Carlos Araújo,46,M,Não,Não,Moderado,Alta,Não,Alto,Sim,Não,Não,Não,93.9,Não,Não,Não,Alto,Não,93.2,1.51,40.9,Sem Risco,40.875400201745535
+João Oliveira,60,Outro,Não,Sim,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,97.3,Não,Não,Não,Baixo,Sim,66.8,1.66,24.2,Sem Risco,24.241544491217883
+Lucas Oliveira,30,M,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.5,Não,Não,Não,Alto,Não,78.0,1.77,,Sem Risco,24.897060231734173
+Ana Ribeiro,45,Outro,Sim,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,97.0,Não,Não,Não,Baixo,Não,68.8,1.66,25.0,Sem Risco,24.96733923646393
+Fernanda Ribeiro,54,M,Não,Não,Moderado,Baixa,Não,Alto,Não,Sim,Não,Não,97.5,Sim,Não,Não,Moderado,Não,81.7,1.98,20.8,Sem Risco,20.83971023364963
+Luiza Santos,18,F,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,92.2,Não,Não,Não,Baixo,Não,70.6,1.82,21.3,Sem Risco,21.31385098418065
+Gabriel Barbosa,38,M,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,97.7,Não,Sim,Não,Moderado,Não,87.9,1.81,26.8,Sem Risco,26.83068282408962
+Maria Silva,40,M,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,94.6,Não,Não,Não,Baixo,Não,94.4,1.8,29.1,Sem Risco,29.135802469135804
+Gabriel Rodrigues,37,F,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.5,Sim,Não,Sim,Moderado,Não,70.1,1.8,21.6,Sem Risco,21.6358024691358
+Pedro Rodrigues,63,M,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Sim,95.4,Não,Não,Não,Baixo,Não,77.5,1.89,21.7,Sem Risco,21.69592116682064
+Ana Martins,60,Outro,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,97.7,Não,Não,Não,Moderado,Não,109.7,1.75,35.8,Risco,35.820408163265306
+Rafael Martins,44,Outro,Não,Não,Alto,Média,Não,Baixo,Sim,Não,Não,Não,96.7,Não,Não,Não,Baixo,Não,68.7,1.78,21.7,Sem Risco,21.682868324706476
+Camila Pereira,49,M,Sim,Sim,Moderado,Média,Sim,Moderado,Sim,Sim,Não,Sim,96.6,Não,Não,Não,Baixo,Não,69.2,1.62,26.4,Risco,26.367931717725952
+Luiza Souza,46,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,98.9,Não,Não,Sim,Baixo,Não,98.2,1.71,,Sem Risco,33.582982798125926
+Tiago Moura,37,Outro,Sim,Não,Baixo,Média,Não,Moderado,Sim,Não,Não,Não,94.8,Não,Não,Não,Baixo,Não,40.2,1.73,13.4,Risco,13.431788566273514
+Beatriz Freitas,36,M,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Sim,98.1,Não,Não,Sim,Alto,Não,63.0,1.84,18.6,Sem Risco,18.608223062381853
+Larissa Araújo,84,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Sim,Não,Não,96.95772442588726,Não,Não,Não,Baixo,Não,75.2,1.72,25.4,Sem Risco,25.419145484045433
+Felipe Santos,75,F,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,95.8,Não,Não,Não,Alto,Sim,109.7,1.75,35.8,Risco,35.820408163265306
+João Nunes,40,F,Sim,Não,Baixo,Baixa,Não,Alto,Não,Não,Sim,Não,95.6,Não,Não,Sim,Moderado,Não,73.9,1.74,24.4,Sem Risco,24.408772625181662
+Gabriel Nunes,27,M,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.0,Não,Não,Sim,Alto,Não,87.6,1.78,27.6,Sem Risco,27.648024239363714
+Camila Alves,53,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.95772442588726,Não,Não,Sim,Baixo,Sim,93.7,1.73,31.3,Sem Risco,31.30742757860269
+Lucas Moreira,41,M,Sim,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Não,95.2,Não,Não,Não,Baixo,Não,108.4,1.69,38.0,Sem Risco,37.95385315640209
+João Pereira,18,Outro,Não,Não,Baixo,Média,Não,Moderado,Sim,Não,Sim,Não,97.0,Não,Sim,Sim,Baixo,Não,77.9,1.58,31.2,Sem Risco,31.204935106553435
+Gabriel Alves,40,F,Sim,Não,Moderado,Alta,Não,Baixo,Não,Não,Sim,Sim,97.8,Não,Não,Não,Moderado,Não,80.8,1.69,28.3,Sem Risco,28.29032596897868
+Maria Nunes,57,Outro,Não,Não,Baixo,Média,Não,Alto,Não,Não,Sim,Não,96.9,Não,Sim,Não,Baixo,Não,65.9,1.86,19.0,Sem Risco,19.048444906925656
+Gustavo Alves,49,Outro,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,96.5,Não,Não,Sim,Baixo,Não,95.8,1.83,28.6,Sem Risco,28.606408074293046
+Tiago Moura,55,Outro,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,97.0,Não,Não,Não,Baixo,Não,91.5,1.52,39.6,Sem Risco,39.60353185595568
+João Souza,47,M,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.8,Não,Não,Não,Moderado,Não,54.5,1.71,18.6,Sem Risco,18.63821346739168
+Paula Moreira 975,42,M,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Sim,94.7,Não,Não,Não,Alto,Sim,63.4,1.71,21.7,Sem Risco,21.68188502445197
+Carolina Freitas,46,F,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,95.3,Não,Não,Não,Moderado,Não,64.6,1.81,19.7,Sem Risco,19.718567809285428
+Felipe Gomes,39,M,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,98.9,Não,Não,Não,Alto,Não,76.4,1.63,28.8,Sem Risco,28.75531634611766
+Mariana Moura,45,Outro,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.9,Não,Não,Não,Moderado,Não,91.1,1.77,29.1,Sem Risco,29.078489578345938
+Beatriz Moura,19,F,Sim,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,,99.3,Não,Não,Não,Baixo,Sim,115.7,1.64,43.0,Risco,43.017549077929814
+João Gomes,37,F,Não,Sim,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,95.1,Não,Não,Não,Moderado,Não,61.9,1.66,22.5,Sem Risco,22.463347365365074
+Paula Nunes,24,M,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,93.8,Não,Não,Não,Moderado,Não,75.1,1.73,25.1,Sem Risco,25.09271943599853
+Maria Pereira,76,Outro,Sim,Não,Alto,Alta,Não,Moderado,Não,Não,Sim,Não,94.3,Não,Sim,Sim,Baixo,Não,50.6,1.73,16.9,Risco,16.906679140632832
+Ana Ribeiro,49,F,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Sim,Não,98.2,Não,Não,Não,Moderado,Não,74.9,1.65,27.5,Sem Risco,27.511478420569336
+Gabriel Souza,80,M,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,94.3,Não,Não,Não,Baixo,Sim,76.5,1.9,21.2,Risco,21.191135734072024
+Tiago Souza,24,Outro,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Sim,95.6,Não,Sim,Não,Baixo,Não,84.6,1.7,29.3,Sem Risco,29.273356401384085
+Felipe Dias,45,M,Não,Não,Alto,Baixa,Não,Alto,Não,Não,Sim,Não,97.6,Não,Não,Não,Moderado,Não,67.1,1.61,25.9,Sem Risco,25.886346977354265
+Larissa Silva,43,M,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,98.8,Não,Não,Não,Moderado,Não,51.0,1.71,17.4,Sem Risco,17.441263978660103
+Paula Barbosa,49,Outro,Não,Não,Alto,Média,Sim,Baixo,Não,Sim,Não,Sim,98.8,Não,Não,Não,Baixo,Não,90.2,1.74,29.8,Sem Risco,29.792574976879376
+André Pereira,62,M,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,93.0,Não,Não,Não,Moderado,Não,79.8,1.59,31.6,Sem Risco,31.56520707250504
+Lucas Souza,54,F,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,95.8,Não,Não,Não,Baixo,Não,99.4,2.0,24.9,Sem Risco,24.85
+André Martins,62,F,Não,Não,Moderado,Alta,Não,Baixo,Não,Não,Não,Não,94.1,Não,Não,Sim,Moderado,Sim,88.5,1.55,36.8,Risco,36.836628511966694
+Rafael Martins,52,F,Não,Não,Baixo,Média,Não,Moderado,Não,Sim,Não,Não,97.8,Não,Não,Não,Alto,Não,90.8,1.82,27.4,Sem Risco,27.41214829126917
+Felipe Lima,36,F,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,96.6,Não,Não,Não,Baixo,Não,65.4,1.67,23.5,Sem Risco,23.450105776471013
+Paula Gomes,30,F,Sim,Não,Moderado,Média,Não,Alto,Não,Não,Sim,Sim,99.7,Não,Não,Não,Moderado,Não,59.7,1.63,22.5,Sem Risco,22.469795626481993
+Carlos Costa,62,F,Sim,Não,Alto,Média,Não,Moderado,Não,Sim,Não,Sim,99.3,Não,Sim,Não,Baixo,Não,49.9,1.84,14.7,Risco,14.738894139886577
+Beatriz Lima,43,M,Sim,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,96.7,Não,Não,Não,Baixo,Não,111.0,1.63,41.8,Sem Risco,41.77801196883586
+André Moreira,26,F,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,96.8,Não,Não,Não,Baixo,Não,90.3,1.81,27.6,Sem Risco,27.563261194713224
+Ana Rodrigues,29,Outro,Sim,Não,Baixo,Alta,Sim,Alto,Não,Não,Sim,Não,94.3,Não,Não,Sim,Alto,Não,107.5,1.59,42.5,Risco,42.522052134013684
+Paula Ferreira,61,Outro,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.5,Não,Não,Sim,Baixo,Não,74.3,1.6,29.0,Sem Risco,29.023437499999993

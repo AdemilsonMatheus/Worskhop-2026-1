@@ -1,0 +1,12 @@
+Perfil da Amostra:
+O levantamento abrangeu 855 pacientes, com uma idade média de 49 anos.
+
+Mapeamento de Vulnerabilidade:
+
+A incidência de risco de câncer de pulmão foi detectada em 18% da população avaliada
+
+Dinâmica Genérica e Cronológica:
+Observou-se uma assimetria na distribuição de risco entre homens e mulheres, sugerindo que fatores biológicos e hábitos distintos influenciam a saúde respiratória de forma específica em cada grupo. Além disso, a variável idade atua como um catalisador direto: o risco escala linearmente com o envelhecimento, concentrando-se nos perfis seniores.
+
+Conclusão:
+A combinação entre o fator cronológico e o histórico de tabagismo é o preditor mais assertivo para o diagnóstico de risco. Portanto, a alocação estratégica de recursos médicos deve priorizar esses grupos, utilizando a triagem digital para acelerar a intervenção preventiva.
