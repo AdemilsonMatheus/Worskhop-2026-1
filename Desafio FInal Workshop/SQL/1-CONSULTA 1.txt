@@ -1,6 +1,0 @@
-1-CONSULTA 1:
-FORMA DE PAGAMENTO E VALOR RECEBIDO
-2- Consulta 2:
-   : CONSULTA STATUS DE ALUGUEL / FINALIZAÇÂO DO CLIENTE
-Consulta3:
-Une as informações técnicas do veículo (modelo e placa) com os valores financeiros gerados em cada registro de locação.
